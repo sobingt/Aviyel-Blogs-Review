@@ -71,50 +71,6 @@
   
 
   
-      ,"page2": {
-          "title": "Chatwoot",
-          "content": "Chatwoot .",
-          "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/chatwoot/",
-          "relUrl": "/chatwoot/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page3": {
-          "title": "Docz",
-          "content": "Docz .",
-          "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/docz/",
-          "relUrl": "/docz/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page4": {
-          "title": "Hoppscotch",
-          "content": "Hoppscotch .",
-          "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/hoppscotch/",
-          "relUrl": "/hoppscotch/",
-          "date": ""
-      }
-      
-  
-
-  
-
-  
-      ,"page6": {
-          "title": "MobSF",
-          "content": "MobSF .",
-          "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/mobsf/",
-          "relUrl": "/mobsf/",
-          "date": ""
-      }
-      
-  
 
   
   
@@ -127,14 +83,6 @@
   
 
   
-      ,"page11": {
-          "title": "Typesense",
-          "content": "Typesense .",
-          "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/typesense/",
-          "relUrl": "/typesense/",
-          "date": ""
-      }
-      
   
 
   
@@ -144,10 +92,7 @@
   
 
   
-  
-
-  
-      ,"page15": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/robots.txt",
