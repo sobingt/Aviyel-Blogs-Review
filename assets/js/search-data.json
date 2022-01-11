@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "Ultimate Guide to Typesense",
-            "content": "What is Typesense? What is Typesense cloud? How to install and self-host Typesense? How to run Typesense from the Docker Image? . | . | . | . | .",
+            "content": "What is Typesense? What is Typesense cloud? How to install and self-host Typesense? How to run Typesense from the Docker Image? How to install Typesense ? . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide/",
             "relUrl": "/ultimate-guide/",
             "date": " • Jan 11, 2022"
@@ -112,6 +112,17 @@
   
     
         ,"post10": {
+            "title": "How to install Typesense ?",
+            "content": "",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-typesense/",
+            "relUrl": "/how-to-install-typesense/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post11": {
             "title": "How to install and self-host Typesense?",
             "content": "How to download and install Typesense on Mac? How to download and install Typesense on Linux? How to download and install Typesense on Windows? How to download and install Typesense on Ubuntu? How to download and install Typesense on CentOS? . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-and-self-host-typesense/",
@@ -122,7 +133,7 @@
     
   
     
-        ,"post11": {
+        ,"post12": {
             "title": "Hoppscotch",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/hoppscotch/2022/01/11/hoppscotch.html",
@@ -133,7 +144,7 @@
     
   
     
-        ,"post12": {
+        ,"post13": {
             "title": "MobSF",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/mobsf/2022/01/11/Mobsf.html",
@@ -144,7 +155,7 @@
     
   
     
-        ,"post13": {
+        ,"post14": {
             "title": "Docz",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/docz/2022/01/11/Docz.html",
@@ -155,7 +166,7 @@
     
   
     
-        ,"post14": {
+        ,"post15": {
             "title": "Chatwoot",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/chatwoot/2022/01/11/Chatwoot.html",
