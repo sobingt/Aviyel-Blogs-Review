@@ -25,4 +25,4 @@ permalink: /search-app-with-typesense/
 <br>
 
 <ul>
-<li><h2><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-app-with-typesense-javascript/">How to build a search app with Javascript and Typesense?</a><h2>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-app-with-typesense-javascript/">How to build a search app with Javascript and Typesense?</a><p>
