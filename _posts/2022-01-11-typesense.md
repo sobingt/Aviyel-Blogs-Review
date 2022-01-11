@@ -9,7 +9,7 @@ comments: false
 sticky_rank: 1
 ---
 
-<button class="back-button" onclick="window.history.back()">Back</button>
+<button class="back-button" onclick="window.history.back()"><< Back</button>
 
 <h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide/">Ultimate Guide to Typesense.</a><h3>
 <h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">API Reference for Typesense.</a><h3>

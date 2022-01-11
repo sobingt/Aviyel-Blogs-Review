@@ -8,6 +8,8 @@ hidden: true
 permalink: /how-to-install-typesense/
 ---
 
+<button class="back-button" onclick="window.history.back()"><< Back</button>
+
 <ul>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-react/">How to Get Started with Typesense and Reactjs?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-node/">How to Get Started with Typesense and Nodejs?</a><p>

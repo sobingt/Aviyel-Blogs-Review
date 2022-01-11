@@ -8,6 +8,8 @@ hidden: true
 permalink: /setup-typesense-server-config-file/
 ---
 
+<button class="back-button" onclick="window.history.back()"><< Back</button>
+
 ## Outline: [Article Title]
 
 **Keyword:** [Enter Targeted Keyword]

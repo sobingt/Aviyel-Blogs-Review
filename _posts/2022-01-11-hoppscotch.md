@@ -8,3 +8,5 @@ image: images/Hoppscotch.png
 comments: true
 sticky_rank: 4
 ---
+
+<button class="back-button" onclick="window.history.back()"><< Back</button>

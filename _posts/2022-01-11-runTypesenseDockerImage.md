@@ -8,6 +8,8 @@ hidden: true
 permalink: /how-to-run-typesense-docker-image/
 ---
 
+<button class="back-button" onclick="window.history.back()"><< Back</button>
+
 ## Outline: [Article Title]
 
 **Keyword:** [Enter Targeted Keyword]

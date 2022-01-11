@@ -8,6 +8,8 @@ hidden: true
 permalink: /search-app-with-typesense-ruby/
 ---
 
+<button class="back-button" onclick="window.history.back()"><< Back</button>
+
 ## Outline: [Article Title]
 
 **Keyword:** [Enter Targeted Keyword]
