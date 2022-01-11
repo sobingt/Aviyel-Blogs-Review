@@ -167,6 +167,28 @@
   
     
         ,"post15": {
+            "title": "How to run a cluster of Typesense nodes for its high availability?",
+            "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/run-typesense-cluster-node/",
+            "relUrl": "/run-typesense-cluster-node/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post16": {
+            "title": "How to rank the search results in Typesense? ",
+            "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/rank-search-result-typesense/",
+            "relUrl": "/rank-search-result-typesense/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post17": {
             "title": "How to build a search app with Ruby and Typesense?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-app-with-typesense-ruby/",
@@ -177,7 +199,7 @@
     
   
     
-        ,"post16": {
+        ,"post18": {
             "title": "How to create a Search engine for Doc sites with Typesense ?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-engine-with-typesense/",
@@ -188,7 +210,7 @@
     
   
     
-        ,"post17": {
+        ,"post19": {
             "title": "How to Add a Search Bar to the Doc site with Typesense?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-bar-in-doc-site-with-typesense/",
@@ -199,7 +221,7 @@
     
   
     
-        ,"post18": {
+        ,"post20": {
             "title": "How to integrate MongoDB and Typesense?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/integrate-mongodb-typesense/",
@@ -210,7 +232,7 @@
     
   
     
-        ,"post19": {
+        ,"post21": {
             "title": "How to integrate Firebase and Typesense?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/integrate-firebase-typesense/",
@@ -221,7 +243,7 @@
     
   
     
-        ,"post20": {
+        ,"post22": {
             "title": "How to Integrate DynamoDB and Typesense?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/integrate-dynamodb-typesense/",
@@ -232,7 +254,7 @@
     
   
     
-        ,"post21": {
+        ,"post23": {
             "title": "How to set up Doc Search Scrapper in Typesense?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/doc-search-scrapper-in-typesense/",
@@ -243,7 +265,29 @@
     
   
     
-        ,"post22": {
+        ,"post24": {
+            "title": "How to Instrument Custom Search UIs?",
+            "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/instrument-custom-search-ui/",
+            "relUrl": "/instrument-custom-search-ui/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post25": {
+            "title": "How to add InstantSearch Analytics Widgets in Typesense?",
+            "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/instantsearch-widget-typesense/",
+            "relUrl": "/instantsearch-widget-typesense/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post26": {
             "title": "How to download and install Typesense on windows?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-windows/",
@@ -254,7 +298,7 @@
     
   
     
-        ,"post23": {
+        ,"post27": {
             "title": "How to download and install Typesense on ubuntu?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-ubuntu/",
@@ -265,7 +309,7 @@
     
   
     
-        ,"post24": {
+        ,"post28": {
             "title": "How to download and install Typesense on mac?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-Mac/",
@@ -276,7 +320,7 @@
     
   
     
-        ,"post25": {
+        ,"post29": {
             "title": "How to download and install Typesense on linux?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-linux/",
@@ -287,7 +331,7 @@
     
   
     
-        ,"post26": {
+        ,"post30": {
             "title": "How to download and install Typesense on centOS?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-centos/",
@@ -298,7 +342,7 @@
     
   
     
-        ,"post27": {
+        ,"post31": {
             "title": "How to install Typesense ?",
             "content": "How to Get Started with Typesense and Reactjs? How to Get Started with Typesense and Nodejs? How to Get Started with Typesense and PHP? How to Get Started with Typesense and Python? How to Get Started with Typesense and Ruby? How to set up the Typesense Go client? How to set up the Typesense Java client? How to set up the Typesense C# client? How to set up the Typesense Rust client? How to set up the Typesense Dart client? . | . | . | . | . | . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-typesense/",
@@ -309,7 +353,7 @@
     
   
     
-        ,"post28": {
+        ,"post32": {
             "title": "How to install and self-host Typesense?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . How to download and install Typesense on Mac? How to download and install Typesense on Linux? How to download and install Typesense on Windows? How to download and install Typesense on Ubuntu? How to download and install Typesense on CentOS? . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-and-self-host-typesense/",
@@ -320,7 +364,7 @@
     
   
     
-        ,"post29": {
+        ,"post33": {
             "title": "Hoppscotch",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/hoppscotch/2022/01/11/hoppscotch.html",
@@ -331,7 +375,7 @@
     
   
     
-        ,"post30": {
+        ,"post34": {
             "title": "How to Get Started with Typesense and Ruby?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-ruby/",
@@ -342,7 +386,7 @@
     
   
     
-        ,"post31": {
+        ,"post35": {
             "title": "How to Get Started with Typesense and Reactjs?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-react/",
@@ -353,7 +397,7 @@
     
   
     
-        ,"post32": {
+        ,"post36": {
             "title": "How to Get Started with Typesense and Python?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-python/",
@@ -364,7 +408,7 @@
     
   
     
-        ,"post33": {
+        ,"post37": {
             "title": "How to Get Started with Typesense and PHP?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-php/",
@@ -375,7 +419,7 @@
     
   
     
-        ,"post34": {
+        ,"post38": {
             "title": "How to Get Started with Typesense and Nodejs?",
             "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-node/",
@@ -386,7 +430,18 @@
     
   
     
-        ,"post35": {
+        ,"post39": {
+            "title": "How to configure a Typesense cluster?",
+            "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/configure-typesense-cluster/",
+            "relUrl": "/configure-typesense-cluster/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post40": {
             "title": "MobSF",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/mobsf/2022/01/11/Mobsf.html",
@@ -397,7 +452,7 @@
     
   
     
-        ,"post36": {
+        ,"post41": {
             "title": "Docz",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/docz/2022/01/11/Docz.html",
@@ -408,11 +463,22 @@
     
   
     
-        ,"post37": {
+        ,"post42": {
             "title": "Chatwoot",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/chatwoot/2022/01/11/Chatwoot.html",
             "relUrl": "/chatwoot/2022/01/11/Chatwoot.html",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post43": {
+            "title": "10 Production Best Practices for Typesense",
+            "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/10-production-best-practice/",
+            "relUrl": "/10-production-best-practice/",
             "date": " • Jan 11, 2022"
         }
         
