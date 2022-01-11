@@ -46,6 +46,61 @@
   
     
         ,"post4": {
+            "title": "How to set up the Typesense Rust client?",
+            "content": "",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-rust-client/",
+            "relUrl": "/how-to-set-up-typesense-rust-client/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post5": {
+            "title": "How to set up the Typesense Java client?",
+            "content": "",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-java-client/",
+            "relUrl": "/how-to-set-up-typesense-java-client/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post6": {
+            "title": "How to set up the Typesense Go client?",
+            "content": "",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-go-client/",
+            "relUrl": "/how-to-set-up-typesense-go-client/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post7": {
+            "title": "How to set up the Typesense Dart client?",
+            "content": "",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-dart-client/",
+            "relUrl": "/how-to-set-up-typesense-dart-client/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post8": {
+            "title": "How to set up the Typesense c# client?",
+            "content": "",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-csharp-client/",
+            "relUrl": "/how-to-set-up-typesense-csharp-client/",
+            "date": " • Jan 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post9": {
             "title": "How to run Typesense from the Docker Image?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/",
@@ -56,7 +111,7 @@
     
   
     
-        ,"post5": {
+        ,"post10": {
             "title": "How to download and install Typesense on windows?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-windows/",
@@ -67,7 +122,7 @@
     
   
     
-        ,"post6": {
+        ,"post11": {
             "title": "How to download and install Typesense on ubuntu?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-ubuntu/",
@@ -78,7 +133,7 @@
     
   
     
-        ,"post7": {
+        ,"post12": {
             "title": "How to download and install Typesense on mac?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-Mac/",
@@ -89,7 +144,7 @@
     
   
     
-        ,"post8": {
+        ,"post13": {
             "title": "How to download and install Typesense on linux?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-linux/",
@@ -100,7 +155,7 @@
     
   
     
-        ,"post9": {
+        ,"post14": {
             "title": "How to download and install Typesense on centOS?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-centos/",
@@ -111,9 +166,9 @@
     
   
     
-        ,"post10": {
+        ,"post15": {
             "title": "How to install Typesense ?",
-            "content": "How to Get Started with Typesense and Reactjs? How to Get Started with Typesense and Nodejs? How to Get Started with Typesense and PHP? How to Get Started with Typesense and Python? How to Get Started with Typesense and Ruby? . | . | . | . | . | .",
+            "content": "How to Get Started with Typesense and Reactjs? How to Get Started with Typesense and Nodejs? How to Get Started with Typesense and PHP? How to Get Started with Typesense and Python? How to Get Started with Typesense and Ruby? How to set up the Typesense Go client? How to set up the Typesense Java client? How to set up the Typesense C# client? How to set up the Typesense Rust client? How to set up the Typesense Dart client? . | . | . | . | . | . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-typesense/",
             "relUrl": "/how-to-install-typesense/",
             "date": " • Jan 11, 2022"
@@ -122,7 +177,7 @@
     
   
     
-        ,"post11": {
+        ,"post16": {
             "title": "How to install and self-host Typesense?",
             "content": "How to download and install Typesense on Mac? How to download and install Typesense on Linux? How to download and install Typesense on Windows? How to download and install Typesense on Ubuntu? How to download and install Typesense on CentOS? . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-and-self-host-typesense/",
@@ -133,7 +188,7 @@
     
   
     
-        ,"post12": {
+        ,"post17": {
             "title": "Hoppscotch",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/hoppscotch/2022/01/11/hoppscotch.html",
@@ -144,7 +199,7 @@
     
   
     
-        ,"post13": {
+        ,"post18": {
             "title": "How to Get Started with Typesense and Ruby?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-ruby/",
@@ -155,7 +210,7 @@
     
   
     
-        ,"post14": {
+        ,"post19": {
             "title": "How to Get Started with Typesense and Reactjs?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-react/",
@@ -166,7 +221,7 @@
     
   
     
-        ,"post15": {
+        ,"post20": {
             "title": "How to Get Started with Typesense and Python?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-python/",
@@ -177,7 +232,7 @@
     
   
     
-        ,"post16": {
+        ,"post21": {
             "title": "How to Get Started with Typesense and PHP?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-php/",
@@ -188,7 +243,7 @@
     
   
     
-        ,"post17": {
+        ,"post22": {
             "title": "How to Get Started with Typesense and Nodejs?",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-node/",
@@ -199,7 +254,7 @@
     
   
     
-        ,"post18": {
+        ,"post23": {
             "title": "MobSF",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/mobsf/2022/01/11/Mobsf.html",
@@ -210,7 +265,7 @@
     
   
     
-        ,"post19": {
+        ,"post24": {
             "title": "Docz",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/docz/2022/01/11/Docz.html",
@@ -221,7 +276,7 @@
     
   
     
-        ,"post20": {
+        ,"post25": {
             "title": "Chatwoot",
             "content": "",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/chatwoot/2022/01/11/Chatwoot.html",
