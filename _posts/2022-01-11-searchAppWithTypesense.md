@@ -26,3 +26,6 @@ permalink: /search-app-with-typesense/
 
 <ul>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-app-with-typesense-javascript/">How to build a search app with Javascript and Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-app-with-typesense-php/">How to build a search app with PHP and Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-app-with-typesense-python/">How to build a search app with Python and Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-app-with-typesense-ruby/">How to build a search app with Ruby and Typesense?</a><p>
