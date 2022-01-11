@@ -9,4 +9,7 @@ comments: false
 sticky_rank: 1
 ---
 
-<h1 align="center"><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide/">Ultimate Guide to Typesense </a><h1>
+<h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide/">Ultimate Guide to Typesense.</a><h3>
+<h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">API Reference for Typesense.</a><h3>
+<h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">API Resource for Typesense.</a><h3>
+<h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">Case Study of Typesense.</a><h3>
