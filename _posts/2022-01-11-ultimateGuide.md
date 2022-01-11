@@ -8,6 +8,22 @@ hidden: true
 permalink: /ultimate-guide/
 ---
 
+## Outline: [Article Title]
+
+**Keyword:** [Enter Targeted Keyword]
+
+**Keyword MSV:** [Enter Targeted Keyword’s Monthly Search Volume]
+
+**Author:** [Enter Author Name]
+
+**Due Date:** [Enter Due Date]
+
+**Publish Date:** [Enter Desired Publish Date]
+
+**Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
+
+<br>
+
 <ul>
 <li><h2><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-typesense/">What is Typesense?</a><h2>
 <li><h2><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-typesense-cloud/">What is Typesense cloud?</a><h2>
