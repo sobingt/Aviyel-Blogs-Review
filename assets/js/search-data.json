@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "Ultimate Guide to Typesense",
-            "content": "What is Typesense? What is Typesense cloud? How to install and self-host Typesense? How to run Typesense from the Docker Image? How to install Typesense ? . | . | . | . | . | .",
+            "content": "What is Typesense? What is Typesense cloud? How to install and self-host Typesense? How to run Typesense from the Docker Image? How to install Typesense ? How to build a search application with Typesense? . | . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide/",
             "relUrl": "/ultimate-guide/",
             "date": " • Jan 11, 2022"
