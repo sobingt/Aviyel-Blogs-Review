@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "Ultimate Guide to Typesense",
-            "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . What is Typesense? What is Typesense cloud? How to install and self-host Typesense? How to run Typesense from the Docker Image? How to install Typesense ? How to build a search application with Typesense? . | . | . | . | . | . | .",
+            "content": "Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . What is Typesense? What is Typesense cloud? How to install and self-host Typesense? How to run Typesense from the Docker Image? How to install Typesense ? How to build a search application with Typesense? 10 Production Best Practices fro Typesense How to run a cluster of Typesense nodes for its high availability? How to configure a Typesense cluster? How to add InstantSearch Analytics Widgets in Typesense? How to Instrument Custom Search UIs? How to rank the search results in Typesense? How to update Typesense ? How to configure Typesense Server? How to run Typesense in production? . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide/",
             "relUrl": "/ultimate-guide/",
             "date": " • Jan 11, 2022"
