@@ -14,3 +14,4 @@ permalink: /ultimate-guide/
 <li><h2><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-and-self-host-typesense/">How to install and self-host Typesense?</a><h2>
 <li><h2><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/">How to run Typesense from the Docker Image?</a><h2>
 <li><h2><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-typesense/">How to install Typesense ?</a><h2>
+<li><h2><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-app-with-typesense/">How to build a search application with Typesense?</a><h2>
