@@ -39,4 +39,4 @@ permalink: /ultimate-guide/
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/rank-search-result-typesense/">How to rank the search results in Typesense? </a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to update Typesense ? </a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to configure Typesense Server?</a><h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to run Typesense in production?</a><h3>
+<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-in-production/">How to run Typesense in production?</a><h3>
