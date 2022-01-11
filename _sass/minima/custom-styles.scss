@@ -1,11 +1,20 @@
 /*-----------------------------------*/
 /*--- IMPORT STYLES FOR FASTPAGES ---*/
-@import "minima/fastpages-styles";   
-
-
+@import "minima/fastpages-styles";
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
-@import "minima/fastpages-dracula-highlight"; 
+@import "minima/fastpages-dracula-highlight";
+
+// make non-headings slightly lighter
+.post-content p,
+.post-content li {
+  font-size: 18px;
+  color: #515151;
+}
+
+p code {
+  font-size: 16px;
+}
