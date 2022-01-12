@@ -27,11 +27,11 @@ permalink: /case-study-of-typesense/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">Recipe search application built using Typesense.</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">Linux commits search built using Typesense.</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">E-commerce storefront search built using Typesense</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">E-commerce storefront search built using Typesense and Next.js</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">Song search built using Typesense.</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">Books Search application built using Typesense</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">Good Reads Books Search built using Typesense and Vue.</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">Typehead Spellchecker built using Typesense.</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/recipe-search-app-typesense/">Recipe search application built using Typesense.</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/linux-commit-search-app-typesense/">Linux commits search built using Typesense.</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ecommerce-search-app-typesense/">E-commerce storefront search built using Typesense</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ecommerce-nextjs-search-app-typesense/">E-commerce storefront search built using Typesense and Next.js</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/song-search-app-typesense/">Song search built using Typesense.</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/book-search-app-typesense/">Books Search application built using Typesense</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/book-vuejs-search-app-typesense/">Good Reads Books Search built using Typesense and Vue.</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/typehead-spellcheck-app-typesense/">Typehead Spellchecker built using Typesense.</a><p>
