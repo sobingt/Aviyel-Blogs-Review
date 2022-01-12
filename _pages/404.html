@@ -7,13 +7,7 @@ search_exclude: true
 <style type="text/css" media="screen">
   @import url("https://fonts.googleapis.com/css?family=Audiowide&display=swap");
 
-  html,
-  body {
-    margin: 0px;
-    overflow: hidden;
-  }
-
-  div {
+  .this {
     position: absolute;
     top: 0%;
     left: 0%;
@@ -31,7 +25,7 @@ search_exclude: true
     transform: translate(-50%, -50%);
   }
 
-  h2 {
+  .page-not-found {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -40,10 +34,10 @@ search_exclude: true
     text-transform: uppercase;
     transform: translate(-50%, -50%);
     display: block;
-    color: #12000a;
+    color: #8661d1;
     font-weight: 300;
     font-family: Audiowide;
-    text-shadow: 0px 0px 4px #12000a;
+    text-shadow: 0px 0px 4px #8661d1;
     animation: fadeInText 3s ease-in 3.5s forwards,
       flicker4 5s linear 7.5s infinite, hueRotate 6s ease-in-out 3s infinite;
   }
@@ -68,7 +62,7 @@ search_exclude: true
   #id1_1,
   #id2_1,
   #id3_1 {
-    stroke: #ff005d;
+    stroke: #9e81da;
     stroke-width: 3px;
     fill: transparent;
     filter: url(#glow);
@@ -77,7 +71,7 @@ search_exclude: true
   #id1_2,
   #id2_2,
   #id3_2 {
-    stroke: #12000a;
+    stroke: #59347f;
     stroke-width: 3px;
     fill: transparent;
     filter: url(#glow);
@@ -133,7 +127,7 @@ search_exclude: true
 
   @keyframes flicker1 {
     0% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     1% {
       stroke: transparent;
@@ -142,10 +136,10 @@ search_exclude: true
       stroke: transparent;
     }
     4% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     6% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     7% {
       stroke: transparent;
@@ -154,19 +148,19 @@ search_exclude: true
       stroke: transparent;
     }
     14% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     100% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
   }
 
   @keyframes flicker2 {
     0% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     50% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     51% {
       stroke: transparent;
@@ -175,16 +169,16 @@ search_exclude: true
       stroke: transparent;
     }
     62% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     100% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
   }
 
   @keyframes flicker3 {
     0% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     1% {
       stroke: transparent;
@@ -193,10 +187,10 @@ search_exclude: true
       stroke: transparent;
     }
     11% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     40% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     41% {
       stroke: transparent;
@@ -205,80 +199,80 @@ search_exclude: true
       stroke: transparent;
     }
     46% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
     100% {
-      stroke: #ff005d;
+      stroke: #59347f;
     }
   }
 
   @keyframes flicker4 {
     0% {
-      color: #ff005d;
-      text-shadow: 0px 0px 4px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 4px #59347f;
     }
     30% {
-      color: #ff005d;
-      text-shadow: 0px 0px 4px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 4px #59347f;
     }
     31% {
-      color: #12000a;
-      text-shadow: 0px 0px 4px #12000a;
+      color: #9e81da;
+      text-shadow: 0px 0px 4px #9e81da;
     }
     32% {
-      color: #ff005d;
-      text-shadow: 0px 0px 4px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 4px #59347f;
     }
     36% {
-      color: #ff005d;
-      text-shadow: 0px 0px 4px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 4px #59347f;
     }
     37% {
-      color: #12000a;
-      text-shadow: 0px 0px 4px #12000a;
+      color: #9e81da;
+      text-shadow: 0px 0px 4px #9e81da;
     }
     41% {
-      color: #12000a;
-      text-shadow: 0px 0px 4px #12000a;
+      color: #9e81da;
+      text-shadow: 0px 0px 4px #9e81da;
     }
     42% {
-      color: #ff005d;
-      text-shadow: 0px 0px 4px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 4px #59347f;
     }
     85% {
-      color: #ff005d;
-      text-shadow: 0px 0px 4px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 4px #59347f;
     }
     86% {
-      color: #12000a;
-      text-shadow: 0px 0px 4px #12000a;
+      color: #9e81da;
+      text-shadow: 0px 0px 4px #9e81da;
     }
     95% {
-      color: #12000a;
-      text-shadow: 0px 0px 4px #12000a;
+      color: #9e81da;
+      text-shadow: 0px 0px 4px #9e81da;
     }
     96% {
-      color: #ff005d;
-      text-shadow: 0px 0px 4px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 4px #59347f;
     }
     100% {
-      color: #ff005d;
-      text-shadow: 0px 0px 4px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 4px #59347f;
     }
   }
 
   @keyframes fadeInText {
     1% {
-      color: #12000a;
-      text-shadow: 0px 0px 4px #12000a;
+      color: #9e81da;
+      text-shadow: 0px 0px 4px #9e81da;
     }
     70% {
-      color: #ff005d;
-      text-shadow: 0px 0px 14px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 14px #59347f;
     }
     100% {
-      color: #ff005d;
-      text-shadow: 0px 0px 4px #ff005d;
+      color: #59347f;
+      text-shadow: 0px 0px 4px #59347f;
     }
   }
 
@@ -296,7 +290,7 @@ search_exclude: true
 </style>
 
 <div class="container">
-  <div></div>
+  <div class="this"></div>
   <svg
     id="svgWrap_2"
     xmlns="http://www.w3.org/2000/svg"
@@ -358,5 +352,5 @@ search_exclude: true
     </defs>
   </svg>
 
-  <h2>Page Not Found</h2>
+  <h2 class="page-not-found">Page Not Found</h2>
 </div>
