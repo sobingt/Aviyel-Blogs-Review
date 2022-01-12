@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [Typesense]
-title: "API Reference for Typesense."
+title: "What is new on Typesense v0.22.1?"
 comments: true
 hidden: true
-permalink: /api-refrence-typesense/
+permalink: /new-typesense-version/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
@@ -25,6 +25,3 @@ permalink: /api-refrence-typesense/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
-
-<ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/new-typesense-version/">What is new on Typesense v0.22.1?</a><p>
