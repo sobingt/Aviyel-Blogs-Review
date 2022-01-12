@@ -26,6 +26,7 @@ permalink: /create-application-typesense/
 
 <br>
 
+<ul>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/search-app-with-typesense/">How to build a search application with Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/instantsearch-widget-typesense/">How to add InstantSearch Analytics Widgets in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/instrument-custom-search-ui/">How to Instrument Custom Search UIs?</a><p>
