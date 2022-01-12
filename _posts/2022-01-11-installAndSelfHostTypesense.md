@@ -32,3 +32,4 @@ permalink: /how-to-install-and-self-host-typesense/
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-windows/">How to download and install Typesense on Windows?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-ubuntu/">How to download and install Typesense on Ubuntu?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-centos/">How to download and install Typesense on CentOS?</a><p>
+<li><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/">How to run Typesense from the Docker Image?</a></p>

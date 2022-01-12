@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [Typesense]
-title: "How to install Typesense ?"
+title: "How to install Typesense Client?"
 comments: true
 hidden: true
-permalink: /how-to-install-typesense/
+permalink: /how-to-install-typesense-client/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
