@@ -37,7 +37,7 @@ permalink: /api-resources-typesense/
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-index-upsert-document-typesense/">How to index and upsert a document in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-search-filter-queries-typesense/">How to search and filter queries in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-gather-search-groups-typesense/">How to gather search results in groups in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How do you make use of arguments in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-use-of-arguments-typesense/">How do you make use of arguments in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">What is Geosearch in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">What is Federated and multi-search in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to retrieve a document collection in Typesense?</a><p>
