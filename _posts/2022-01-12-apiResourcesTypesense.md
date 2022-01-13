@@ -28,7 +28,7 @@ permalink: /api-resources-typesense/
 
 <ul>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-typesense-collection/">What is Typesense collection?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to create a collection in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-typesense-collection/">How to create a collection in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to make a collection with a schema in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to create a collection with a pre-defined schema?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to retrieve collection details in Typesense?</a><p>
