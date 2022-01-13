@@ -21,7 +21,7 @@ sticky_rank: 1
                <div class="card-body d-flex">
                   <div class="mb-2 text-success-gradiant icon-size">U</div>
                   <!-- <div class=""> -->
-                     <h4 class="font-weight-medium"><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide/" class="linking">ltimate Guide to Typesense.</a></h4>
+                     <h5 class="font-weight-medium"><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide/" class="linking">ltimate Guide to Typesense.</a></h5>
                   <!-- </div> -->
                </div>
             </div>
@@ -33,7 +33,7 @@ sticky_rank: 1
                <div class="card-body d-flex">
                   <div class="mb-2 text-success-gradiant icon-size">A</div>
                   <div class="">
-                     <h4 class="font-weight-medium"><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/api-refrence-typesense/" class="linking">PI Reference for Typesense.</a></h4>
+                     <h5 class="font-weight-medium"><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/api-refrence-typesense/" class="linking">PI Reference for Typesense.</a></h5>
                   </div>
                </div>
             </div>
@@ -45,7 +45,7 @@ sticky_rank: 1
                <div class="card-body d-flex">
                   <div class="mb-2 text-success-gradiant icon-size">A</div>
                   <div class="">
-                     <h4 class="font-weight-medium"><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/api-resources-typesense/" class="linking">PI Resource for Typesense.</a></h4>
+                     <h5 class="font-weight-medium"><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/api-resources-typesense/" class="linking">PI Resource for Typesense.</a></h5>
                   </div>
                </div>
             </div>
@@ -57,7 +57,7 @@ sticky_rank: 1
                <div class="card-body d-flex">
                   <div class="mb-2 text-success-gradiant icon-size">C</div>
                   <div class="">
-                     <h4 class="font-weight-medium"><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/case-study-of-typesense/" class="linking">ase Study of Typesense.</a></h4>
+                     <h5 class="font-weight-medium"><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/case-study-of-typesense/" class="linking">ase Study of Typesense.</a></h5>
                   </div>
                </div>
             </div>
