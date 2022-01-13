@@ -525,13 +525,13 @@ p code { font-size: 16px; }
 
 .service-5 .wrap-service5-box .card-body { padding: 30px; }
 
-.service-5 .wrap-service5-box .text-success-gradiant { background: #2cdd9b; background: -webkit-linear-gradient(legacy-direction(to right), #2cdd9b 0%, #1dc8cc 100%); background: -webkit-gradient(linear, left top, right top, from(#2cdd9b), to(#1dc8cc)); background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%); background: -o-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%); background: linear-gradient(to right, #2cdd9b 0%, #1dc8cc 100%); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; text-fill-color: transparent; }
+.service-5 .wrap-service5-box .text-success-gradiant { background: #8661d1; background: -webkit-linear-gradient(legacy-direction(to right), #8661d1 0%, #1dc8cc 100%); background: -webkit-gradient(linear, left top, right top, from(#8661d1), to(#1dc8cc)); background: -webkit-linear-gradient(left, #8661d1 0%, #1dc8cc 100%); background: -o-linear-gradient(left, #8661d1 0%, #1dc8cc 100%); background: linear-gradient(to right, #8661d1 0%, #1dc8cc 100%); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; text-fill-color: transparent; }
 
 .service-5 .wrap-service5-box .icon-size { font-size: 45px; }
 
-.service-5 .btn-success-gradiant { background: #2cdd9b; background: -webkit-linear-gradient(legacy-direction(to right), #2cdd9b 0%, #1dc8cc 100%); background: -webkit-gradient(linear, left top, right top, from(#2cdd9b), to(#1dc8cc)); background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%); background: -o-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%); background: linear-gradient(to right, #2cdd9b 0%, #1dc8cc 100%); }
+.service-5 .btn-success-gradiant { background: #8661d1; background: -webkit-linear-gradient(legacy-direction(to right), #8661d1 0%, #1dc8cc 100%); background: -webkit-gradient(linear, left top, right top, from(#8661d1), to(#1dc8cc)); background: -webkit-linear-gradient(left, #8661d1 0%, #1dc8cc 100%); background: -o-linear-gradient(left, #8661d1 0%, #1dc8cc 100%); background: linear-gradient(to right, #8661d1 0%, #1dc8cc 100%); }
 
-.service-5 .btn-success-gradiant:hover { background: #1dc8cc; background: -webkit-linear-gradient(legacy-direction(to right), #1dc8cc 0%, #2cdd9b 100%); background: -webkit-gradient(linear, left top, right top, from(#1dc8cc), to(#2cdd9b)); background: -webkit-linear-gradient(left, #1dc8cc 0%, #2cdd9b 100%); background: -o-linear-gradient(left, #1dc8cc 0%, #2cdd9b 100%); background: linear-gradient(to right, #1dc8cc 0%, #2cdd9b 100%); }
+.service-5 .btn-success-gradiant:hover { background: #1dc8cc; background: -webkit-linear-gradient(legacy-direction(to right), #1dc8cc 0%, #8661d1 100%); background: -webkit-gradient(linear, left top, right top, from(#1dc8cc), to(#8661d1)); background: -webkit-linear-gradient(left, #1dc8cc 0%, #8661d1 100%); background: -o-linear-gradient(left, #1dc8cc 0%, #8661d1 100%); background: linear-gradient(to right, #1dc8cc 0%, #8661d1 100%); }
 
 .service-5 .btn-md { padding: 15px 45px; font-size: 16px; }
 
