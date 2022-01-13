@@ -32,3 +32,4 @@ permalink: /server-requirements-typesense/
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-current-disk-usage-stat-typesense/">How to get current Disk usage status in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-current-network-usage-stat-typesense/">How to get current Network usage status in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-stats-about-api-endpoints-typesense/">How to get stats about API endpoints in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-health-info-typesense/">How to get health info about a Typesense node?</a><p>

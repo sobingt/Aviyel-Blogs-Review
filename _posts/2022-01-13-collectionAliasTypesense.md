@@ -25,3 +25,8 @@ permalink: /what-is-collection-alias-typesense/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
+
+<ul>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-update-alias-typesense/">How to create and update an alias in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-list-all-alias-collection-typesense/">How to list all aliases and the collections in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-delete-alias-collection-typesense/">How to delete aliases and collections in Typesense?</a><p>

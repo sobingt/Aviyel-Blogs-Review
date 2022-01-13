@@ -25,3 +25,8 @@ permalink: /how-to-create-api-key-typesense/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
+
+<ul>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-retrieve-metadata-api-key-typesense/">How to retrieve an metadata about an API key in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-list-metadata-api-key-typesense/">How to list a metadata of all the API key in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-delete-apikey-id-typesense/">How to delete an API key given its ID in Typesense?</a><p>
