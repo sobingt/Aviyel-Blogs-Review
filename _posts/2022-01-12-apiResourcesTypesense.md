@@ -46,7 +46,7 @@ permalink: /api-resources-typesense/
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-delete-document-collection-query-typesense/">How to delete a documents collection by a query in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-export-documents-typesense/">How to export documents in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to import documents in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to import JSONL files in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-import-jsonl-typesense/">How to import JSONL files in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to import a CSV file in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to configure batch size file in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to deal with Dirty Data in Typesense ?</a><p>
