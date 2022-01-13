@@ -32,6 +32,7 @@ permalink: /ultimate-guide/
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-and-self-host-typesense/">How to install and self-host Typesense?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-typesense-client/">How to install Typesense client ?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-typesense-collection/">What is Typesense Collection?</a><h3>
+<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/server-requirements-typesense/">What are the server requirements in Typesense?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-typesense-handles-typos/">How typesense handles typos in a search query?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/make-use-of-typesense-synonym-feature/">How to make use of synonym feature in Typesense?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-does-typesense-create-data-backup/">How does typesense create data backup?</a><h3>
