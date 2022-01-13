@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [Typesense]
-title: "How to create applications with Typesense?"
+title: "How to create search modules with Typesense?"
 comments: true
 hidden: true
-permalink: /create-application-typesense/
+permalink: /how-to-create-search-modules-with-typesense/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
