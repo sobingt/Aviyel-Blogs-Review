@@ -8,7 +8,9 @@
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight";
 
-@import "https://raw.githubusercontent.com/twbs/bootstrap/main/dist/css/bootstrap.css";
+@import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500);
+
+@import "minima/bootstrap-styles";
 
 // make non-headings slightly lighter
 .post-content p,
@@ -34,8 +36,6 @@ p code {
   margin: 4px 2px;
   cursor: pointer;
 }
-
-@import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500);
 
 .container {
   padding-right: 15px;
