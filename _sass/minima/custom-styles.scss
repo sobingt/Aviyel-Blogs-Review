@@ -97,121 +97,121 @@ p code {
 //   display: flex !important;
 // }
 
-.service-5 {
+.layoutbox-design {
   font-family: "Montserrat", sans-serif;
   color: #8d97ad;
   font-weight: 300;
 }
 
-.service-5 h1,
-.service-5 h2,
-.service-5 h3,
-.service-5 h4,
-.service-5 h5,
-.service-5 h6 {
+.layoutbox-design h1,
+.layoutbox-design h2,
+.layoutbox-design h3,
+.layoutbox-design h4,
+.layoutbox-design h5,
+.layoutbox-design h6 {
   color: #3e4555;
 }
 
-.service-5 a {
+.layoutbox-design a {
   text-decoration: none;
 }
 
-.service-5 .linking {
+.layoutbox-design .linking {
   color: #3e4555;
 }
 
-.service-5 .linking:hover {
+.layoutbox-design .linking:hover {
   color: #316ce8;
 }
 
-.service-5 .font-weight-medium {
+.layoutbox-design .font-weight-medium {
   font-weight: 500;
 }
 
-.service-5 .bg-light {
+.layoutbox-design .bg-light {
   background-color: #f4f8fa !important;
 }
 
-.service-5 .subtitle {
+.layoutbox-design .subtitle {
   color: #8d97ad;
   line-height: 24px;
 }
 
-.service-5 .card.card-shadow {
+.layoutbox-design .card.card-shadow {
   -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
 }
 
-.service-5 .wrap-service5-box .card-body {
+.layoutbox-design .wrap-layoutbox-box .card-body {
   padding: 30px;
 }
 
-.service-5 .wrap-service5-box .text-success-gradiant {
+.layoutbox-design .wrap-layoutbox-box .text-success-gradiant {
   background: #8661d1;
   background: -webkit-linear-gradient(
     legacy-direction(to right),
     #8661d1 0%,
-    #1dc8cc 100%
+    #9e81da 100%
   );
   background: -webkit-gradient(
     linear,
     left top,
     right top,
     from(#8661d1),
-    to(#1dc8cc)
+    to(#9e81da)
   );
-  background: -webkit-linear-gradient(left, #8661d1 0%, #1dc8cc 100%);
-  background: -o-linear-gradient(left, #8661d1 0%, #1dc8cc 100%);
-  background: linear-gradient(to right, #8661d1 0%, #1dc8cc 100%);
+  background: -webkit-linear-gradient(left, #8661d1 0%, #9e81da 100%);
+  background: -o-linear-gradient(left, #8661d1 0%, #9e81da 100%);
+  background: linear-gradient(to right, #8661d1 0%, #9e81da 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
   text-fill-color: transparent;
 }
 
-.service-5 .wrap-service5-box .icon-size {
+.layoutbox-design .wrap-layoutbox-box .icon-size {
   font-size: 45px;
 }
 
-.service-5 .btn-success-gradiant {
+.layoutbox-design .btn-success-gradiant {
   background: #8661d1;
   background: -webkit-linear-gradient(
     legacy-direction(to right),
     #8661d1 0%,
-    #1dc8cc 100%
+    #9e81da 100%
   );
   background: -webkit-gradient(
     linear,
     left top,
     right top,
     from(#8661d1),
-    to(#1dc8cc)
+    to(#9e81da)
   );
-  background: -webkit-linear-gradient(left, #8661d1 0%, #1dc8cc 100%);
-  background: -o-linear-gradient(left, #8661d1 0%, #1dc8cc 100%);
-  background: linear-gradient(to right, #8661d1 0%, #1dc8cc 100%);
+  background: -webkit-linear-gradient(left, #8661d1 0%, #9e81da 100%);
+  background: -o-linear-gradient(left, #8661d1 0%, #9e81da 100%);
+  background: linear-gradient(to right, #8661d1 0%, #9e81da 100%);
 }
 
-.service-5 .btn-success-gradiant:hover {
-  background: #1dc8cc;
+.layoutbox-design .btn-success-gradiant:hover {
+  background: #9e81da;
   background: -webkit-linear-gradient(
     legacy-direction(to right),
-    #1dc8cc 0%,
+    #9e81da 0%,
     #8661d1 100%
   );
   background: -webkit-gradient(
     linear,
     left top,
     right top,
-    from(#1dc8cc),
+    from(#9e81da),
     to(#8661d1)
   );
-  background: -webkit-linear-gradient(left, #1dc8cc 0%, #8661d1 100%);
-  background: -o-linear-gradient(left, #1dc8cc 0%, #8661d1 100%);
-  background: linear-gradient(to right, #1dc8cc 0%, #8661d1 100%);
+  background: -webkit-linear-gradient(left, #9e81da 0%, #8661d1 100%);
+  background: -o-linear-gradient(left, #9e81da 0%, #8661d1 100%);
+  background: linear-gradient(to right, #9e81da 0%, #8661d1 100%);
 }
 
-.service-5 .btn-md {
+.layoutbox-design .btn-md {
   padding: 15px 45px;
   font-size: 16px;
 }
