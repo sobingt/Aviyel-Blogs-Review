@@ -34,8 +34,8 @@ permalink: /api-resources-typesense/
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-retrieve-collection-details-typesense/">How to retrieve collection details in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-list-all-collection-details-typesense/"> How to list all the collections in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-drop-collection-typesense/">How to drop a collection in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to index and upsert a document in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to search and filter queries in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-index-upsert-document-typesense/">How to index and upsert a document in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-search-filter-queries-typesense/">How to search and filter queries in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to gather search results in groups in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How do you make use of arguments in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">What is Geosearch in Typesense?</a><p>
