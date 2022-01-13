@@ -38,5 +38,4 @@ permalink: /ultimate-guide/
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-search-modules-with-typesense/">How to create search modules with Typesense?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/">How to configure Typesense Server?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-update-typesense-for-new-releases/">How to update Typesense for new releases?</a><h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/10-production-best-practice">10 Production Best Practices for Typesense</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-in-production/">How to run Typesense in production?</a><h3>

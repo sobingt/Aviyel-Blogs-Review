@@ -25,3 +25,6 @@ permalink: /how-to-run-typesense-in-production/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
+
+<ul>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/10-production-best-practice">10 Production Best Practices for Typesense</a><p>
