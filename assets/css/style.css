@@ -501,6 +501,10 @@ p code { font-size: 16px; }
 
 .col-md-4 { flex: 0 0 auto; width: 33.33333333%; }
 
+.card-body { flex: 1 1 auto; padding: 1rem 1rem; }
+
+.d-flex { display: flex !important; }
+
 .service-5 { font-family: "Montserrat", sans-serif; color: #8d97ad; font-weight: 300; }
 
 .service-5 h1, .service-5 h2, .service-5 h3, .service-5 h4, .service-5 h5, .service-5 h6 { color: #3e4555; }
