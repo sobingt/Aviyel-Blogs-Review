@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [Typesense]
-title: "How to update Typesense ?"
+title: "How to update Typesense for new releases?"
 comments: true
 hidden: true
-permalink: /how-to-update-typesense/
+permalink: /how-to-update-typesense-for-new-releases/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
