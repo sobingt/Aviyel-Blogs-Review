@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [Typesense]
-title: "What is alias in Typesense?"
+title: "How typesesne handles typos in a search query?"
 comments: true
 hidden: true
-permalink: /what-is-alias-in-typesense/
+permalink: /how-typesense-handles-typos/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
