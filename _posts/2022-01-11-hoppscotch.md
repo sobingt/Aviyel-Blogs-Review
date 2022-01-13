@@ -11,20 +11,90 @@ sticky_rank: 5
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
 
-<ul class="card-wrapper">
-  <li class="card">
-    <img src='https://images.unsplash.com/photo-1611916656173-875e4277bea6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=80&w=400' alt=''>
-    <h3><a href="">A Super Wonderful Headline</a></h3>
-    <p>Lorem ipsum sit dolor amit</p>
-  </li>
-  <li class="card">
-    <img src='https://images.unsplash.com/photo-1611083360739-bdad6e0eb1fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=80&w=400' alt=''>
-    <h3><a href="">What a Fantabulous Title!</a></h3>
-    <p>Lorem ipsum sit dolor amit</p>
-  </li>
-  <li class="card">
-    <img src='https://images.unsplash.com/photo-1613230485186-2e7e0fca1253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=80&w=400' alt=''>
-    <h3><a href="">Positively Terrific Title</a></h3>
-    <p>Lorem ipsum sit dolor amit</p>
-  </li>
-</ul>
+<div class="bg-light py-5 service-5">
+    <div class="container">
+        <!-- Row  -->
+        <div class="row"> 
+            <!-- Column -->
+            <div class="col-md-4 wrap-service5-box">
+                <div class="card card-shadow border-0 mb-4">
+                    <div class="card-body d-flex">
+                        <div class="mr-4 mb-2 text-success-gradiant icon-size">N</div>
+                        <div class="">
+                            <h6 class="font-weight-medium"><a href="javascript:void(0)" class="linking">Instant Solutions</a></h6>
+                            <p class="mt-3">You can relay on our amazing features list and also our services.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Column -->
+            <!-- Column -->
+            <div class="col-md-4 wrap-service5-box">
+                <div class="card card-shadow border-0 mb-4">
+                    <div class="card-body d-flex">
+                        <div class="mr-4 mb-2 text-success-gradiant icon-size">P</div>
+                        <div class="">
+                            <h6 class="font-weight-medium"><a href="javascript:void(0)" class="linking">Powerful Tech </a></h6>
+                            <p class="mt-3">You can relay on our amazing features list and also our customer services.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Column -->
+            <!-- Column -->
+            <div class="col-md-4 wrap-service5-box">
+                <div class="card card-shadow border-0 mb-4">
+                    <div class="card-body d-flex">
+                        <div class="mr-4 mb-2 text-success-gradiant icon-size">S</div>
+                        <div class="">
+                            <h6 class="font-weight-medium"><a href="javascript:void(0)" class="linking">100% Satisfaction </a></h6>
+                            <p class="mt-3">You can relay on our amazing features list and also our customer services.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Column -->
+            <!-- Column -->
+            <div class="col-md-4 wrap-service5-box">
+                <div class="card card-shadow border-0 mb-4">
+                    <div class="card-body d-flex">
+                        <div class="mr-4 mb-2 text-success-gradiant icon-size">T</div>
+                        <div class="">
+                            <h6 class="font-weight-medium"><a href="javascript:void(0)" class="linking">Targeting Market</a></h6>
+                            <p class="mt-3">You can relay on our amazing features list and also our customer services.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Column -->
+            <!-- Column -->
+            <div class="col-md-4 wrap-service5-box">
+                <div class="card card-shadow border-0 mb-4">
+                    <div class="card-body d-flex">
+                        <div class="mr-4 mb-2 text-success-gradiant icon-size">L</div>
+                        <div class="">
+                            <h6 class="font-weight-medium"><a href="javascript:void(0)" class="linking">Goal Achievement </a></h6>
+                            <p class="mt-3">You can relay on our amazing features list and also our customer services.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Column -->
+            <!-- Column -->
+            <div class="col-md-4 wrap-service5-box">
+                <div class="card card-shadow border-0 mb-4">
+                    <div class="card-body d-flex">
+                        <div class="mr-4 mb-2 text-success-gradiant icon-size">F</div>
+                        <div class="">
+                            <h6 class="font-weight-medium"><a href="javascript:void(0)" class="linking">Fully Responsive</a></h6>
+                            <p class="mt-3">You can relay on our amazing features list and also our customer services.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+						<div class="col-md-12 mt-3 text-center">
+                <a class="btn btn-success-gradiant btn-md border-0 text-white"><span>View Details</span></a>
+            </div>
+        </div>
+    </div>
+</div>
