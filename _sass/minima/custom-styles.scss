@@ -84,6 +84,15 @@ p code {
   width: 33.33333333%;
 }
 
+.card-body {
+  flex: 1 1 auto;
+  padding: 1rem 1rem;
+}
+
+.d-flex {
+  display: flex !important;
+}
+
 .service-5 {
   font-family: "Montserrat", sans-serif;
   color: #8d97ad;
