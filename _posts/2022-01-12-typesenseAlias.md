@@ -2,7 +2,7 @@
 toc: true
 layout: page
 categories: [Typesense]
-title: "How typesesne handles typos in a search query?"
+title: "How typesense handles typos in a search query?"
 comments: true
 hidden: true
 permalink: /how-typesense-handles-typos/
