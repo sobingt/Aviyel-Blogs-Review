@@ -596,10 +596,10 @@
   
     
         ,"post54": {
-            "title": "How to run Cluster Operations in Typesense?",
+            "title": "How does typesense create data backup?",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . How to run a cluster of Typesense nodes for its high availability? How to configure a Typesense cluster? . | . | .",
-            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/run-cluster-operation-typesesne/",
-            "relUrl": "/run-cluster-operation-typesesne/",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-does-typesense-create-data-backup/",
+            "relUrl": "/how-does-typesense-create-data-backup/",
             "date": " • Jan 12, 2022"
         }
         
@@ -905,7 +905,7 @@
     
         ,"post82": {
             "title": "Ultimate Guide to Typesense",
-            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . What is Typesense? What is Typesense cloud? How to install and self-host Typesense? How to install Typesense client ? What is Typesense Collection? What is Typesense Document? How to curate Documents in Typesense? How typesesne handles typos in a search query? How to make use of synonym feature in Typesense? How to run Cluster Operations in Typesense? How to create applications with Typesense? How to configure Typesense Server? How to update Typesense ? 10 Production Best Practices for Typesense How to run Typesense in production? . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | .",
+            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . What is Typesense? What is Typesense cloud? How to install and self-host Typesense? How to install Typesense client ? What is Typesense Collection? What is Typesense Document? How to curate Documents in Typesense? How typesesne handles typos in a search query? How to make use of synonym feature in Typesense? How does typesense create data backup? How to create applications with Typesense? How to configure Typesense Server? How to update Typesense ? 10 Production Best Practices for Typesense How to run Typesense in production? . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide/",
             "relUrl": "/ultimate-guide/",
             "date": " • Jan 11, 2022"
