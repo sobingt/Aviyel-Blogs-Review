@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "What are the server requirements in Typesense?",
+            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . How to get current RAM usage status in Typesense? How to get current CPU usage status in Typesense? How to get current Disk usage status in Typesense? How to get current Network usage status in Typesense? How to get stats about API endpoints in Typesense? . | . | . | . | . | .",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/server-requirements-typesens/",
+            "relUrl": "/server-requirements-typesens/",
+            "date": " • Jan 14, 2022"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "How to update a document collection in Typesense?",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-update-document-collection-typesense/",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "How to trigger a follower node in Typesense?",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-trigger-a-follower-node-typesense/",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "What is a synonym feature in Typesense?",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-synonym-feature-typesense/",
@@ -34,22 +45,11 @@
     
   
     
-        ,"post3": {
+        ,"post4": {
             "title": "How to get stats about API endpoints in Typesense?",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-stats-about-api-endpoints-typesense/",
             "relUrl": "/how-to-get-stats-about-api-endpoints-typesense/",
-            "date": " • Jan 13, 2022"
-        }
-        
-    
-  
-    
-        ,"post4": {
-            "title": "What are the server requirements in Typesense?",
-            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
-            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/server-requirements-typesens/",
-            "relUrl": "/server-requirements-typesens/",
             "date": " • Jan 13, 2022"
         }
         
@@ -806,7 +806,7 @@
     
         ,"post73": {
             "title": "API Resource for Typesense.",
-            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . How to search and filter queries in Typesense? How to gather search results in groups in Typesense? How do you make use of arguments in Typesense? What is Geosearch in Typesense? What is Federated and multi-search in Typesense? How to import JSONL files in Typesense? How to import a CSV file in Typesense? How to configure batch size file in Typesense? How to deal with Dirty Data in Typesense ? How to create an API key in Typesense ? How to retrieve an metadata about an API key in Typesense? How to list a metadata of all the API key in Typesense? How to delete an API key given its ID in Typesense? How to generate a Scoped search in Typesense? How to create or update an override in Typesense? How to delete an override associated with a collection in Typesense? What is a collection alias in Typesense? How to create and update an alias in Typesense? How to list all aliases and the collections in Typesense? How to delete aliases and collections in Typesense? What is a synonym feature in Typesense? How to create and update a synonym in Typesense? How to create Multiway synonyms in Typesense? How to create a one-way synonym in Typesense? How to retrieve a single synonym in Typesense? How to delete a synonym associated with a collection? What are cluster operations in Typesense? How to create a snapshot in Typesense? How to trigger a follower node in Typesense? How to enable logging of requests in Typesense? How to get current RAM usage status in Typesense? How to get current CPU usage status in Typesense? How to get current Disk usage status in Typesense? How to get current Network usage status in Typesense? How to get stats about API endpoints in Typesense? How to get health info about a Typesense node? . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | .",
+            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . How to search and filter queries in Typesense? How to gather search results in groups in Typesense? How do you make use of arguments in Typesense? What is Geosearch in Typesense? What is Federated and multi-search in Typesense? How to import JSONL files in Typesense? How to import a CSV file in Typesense? How to configure batch size file in Typesense? How to deal with Dirty Data in Typesense ? How to create an API key in Typesense ? How to retrieve an metadata about an API key in Typesense? How to list a metadata of all the API key in Typesense? How to delete an API key given its ID in Typesense? How to generate a Scoped search in Typesense? How to create or update an override in Typesense? How to delete an override associated with a collection in Typesense? What is a collection alias in Typesense? How to create and update an alias in Typesense? How to list all aliases and the collections in Typesense? How to delete aliases and collections in Typesense? What is a synonym feature in Typesense? How to create and update a synonym in Typesense? How to create Multiway synonyms in Typesense? How to create a one-way synonym in Typesense? How to retrieve a single synonym in Typesense? How to delete a synonym associated with a collection? What are cluster operations in Typesense? How to create a snapshot in Typesense? How to trigger a follower node in Typesense? How to enable logging of requests in Typesense? How to get health info about a Typesense node? . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | . | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/api-resources-typesense/",
             "relUrl": "/api-resources-typesense/",
             "date": " • Jan 12, 2022"
