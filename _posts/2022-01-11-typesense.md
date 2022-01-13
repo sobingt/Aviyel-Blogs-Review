@@ -40,7 +40,7 @@ sticky_rank: 1
          </div>
          <!--  -->
          <!-- Column -->
-         <div class="col-6 wrap-layoutbox-box">
+         <!-- <div class="col-6 wrap-layoutbox-box">
             <div class="card card-shadow border-0 mb-4">
                <div class="card-body d-flex">
                   <div class="mb-2 text-success-gradiant icon-size">A</div>
@@ -49,10 +49,10 @@ sticky_rank: 1
                   </div>
                </div>
             </div>
-         </div>
+         </div> -->
          <!--  -->
          <!-- Column -->
-         <div class="col-6 wrap-layoutbox-box">
+         <div class="col-md-6 offset-md-3 wrap-layoutbox-box">
             <div class="card card-shadow border-0 mb-4">
                <div class="card-body d-flex">
                   <div class="mb-2 text-success-gradiant icon-size">C</div>
