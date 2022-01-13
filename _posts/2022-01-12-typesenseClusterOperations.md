@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [Typesense]
-title: "How to run Cluster Operations in Typesense?"
+title: "How does typesense create data backup?"
 comments: true
 hidden: true
-permalink: /run-cluster-operation-typesesne/
+permalink: /how-does-typesense-create-data-backup/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>

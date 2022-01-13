@@ -36,7 +36,7 @@ permalink: /ultimate-guide/
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-curate-document-typesense/">How to curate Documents in Typesense?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-typesense-handles-typos/">How typesesne handles typos in a search query?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/make-use-of-typesense-synonym-feature/">How to make use of synonym feature in Typesense?</a><h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/run-cluster-operation-typesesne/">How to run Cluster Operations in Typesense?</a><h3>
+<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-does-typesense-create-data-backup/">How does typesense create data backup?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/create-application-typesense/">How to create applications with Typesense?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/">How to configure Typesense Server?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-update-typesense/">How to update Typesense ? </a><h3>
