@@ -5,7 +5,7 @@ categories: [Typesense]
 title: "What are the server requirements in Typesense?"
 comments: true
 hidden: true
-permalink: /server-requirements-typesens/
+permalink: /server-requirements-typesense/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
