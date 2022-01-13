@@ -32,8 +32,6 @@ permalink: /api-resources-typesense/
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-use-of-arguments-typesense/">How do you make use of arguments in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-geosearch-typesense/">What is Geosearch in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-federated-multisearch-typesense/">What is Federated and multi-search in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-import-jsonl-typesense/">How to import JSONL files in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-import-csv-file-typesense/">How to import a CSV file in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-config-batch-file-size-typesense/">How to configure batch size file in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-deal-dirty-data-typesense/">How to deal with Dirty Data in Typesense ?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-api-key-typesense/">How to create an API key in Typesense ?</a><p>

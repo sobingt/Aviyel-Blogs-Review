@@ -36,6 +36,7 @@ permalink: /ultimate-guide/
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-typesense-handles-typos/">How typesense handles typos in a search query?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/make-use-of-typesense-synonym-feature/">How to make use of synonym feature in Typesense?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-does-typesense-create-data-backup/">How does typesense create data backup?</a><h3>
+<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-import-export-data-typesense/">How to import/export data in Typesense?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-search-modules-with-typesense/">How to create search modules with Typesense?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/">How to configure Typesense Server?</a><h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-update-typesense-for-new-releases/">How to update Typesense for new releases?</a><h3>
