@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-categories: [Typesense]
+categories: [MobSF]
 title: "What is AndroBugs framework? "
 comments: true
 hidden: true

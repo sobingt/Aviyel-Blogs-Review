@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-categories: [Typesense]
+categories: [MobSF]
 title: "What is the security score in MobSF?"
 comments: true
 hidden: true

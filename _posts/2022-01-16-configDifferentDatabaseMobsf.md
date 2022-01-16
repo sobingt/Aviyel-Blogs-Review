@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-categories: [Typesense]
+categories: [MobSF]
 title: "Configuring different database backend in MobSF"
 comments: true
 hidden: true

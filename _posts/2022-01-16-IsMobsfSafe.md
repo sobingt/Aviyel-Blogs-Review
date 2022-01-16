@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-categories: [Typesense]
+categories: [MobSF]
 title: "Is MobSF safe?"
 comments: true
 hidden: true

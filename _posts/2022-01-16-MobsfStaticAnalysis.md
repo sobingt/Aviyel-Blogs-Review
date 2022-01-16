@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-categories: [Typesense]
+categories: [MobSF]
 title: "What is MobSF explain static analysis? "
 comments: true
 hidden: true

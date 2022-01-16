@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-categories: [Typesense]
+categories: [MobSF]
 title: "What is MobSF explain dynamic analysis? "
 comments: true
 hidden: true

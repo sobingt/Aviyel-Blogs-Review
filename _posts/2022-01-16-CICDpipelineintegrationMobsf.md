@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-categories: [Typesense]
+categories: [MobSF]
 title: "CI/CD pipeline integration in MobSF"
 comments: true
 hidden: true

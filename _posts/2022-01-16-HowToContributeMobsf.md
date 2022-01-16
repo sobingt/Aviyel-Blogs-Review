@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-categories: [Typesense]
+categories: [MobSF]
 title: "How to contribute to MobSF?"
 comments: true
 hidden: true

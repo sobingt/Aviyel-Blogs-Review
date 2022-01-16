@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-categories: [Typesense]
+categories: [MobSF]
 title: "Top 10 best practices of MobSF"
 comments: true
 hidden: true
