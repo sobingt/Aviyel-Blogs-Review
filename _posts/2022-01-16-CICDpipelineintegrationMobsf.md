@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [Typesense]
-title: "Ultimate Guide to MobSF"
+title: "CI/CD pipeline integration in MobSF"
 comments: true
 hidden: true
-permalink: /ultimate-guide-mobsf/
+permalink: /cicd-pipeline-integration-mobsf/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
