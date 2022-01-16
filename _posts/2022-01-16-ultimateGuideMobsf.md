@@ -32,7 +32,7 @@ permalink: /ultimate-guide-mobsf/
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> How do I install MobSF? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> What is MobSF explain dynamic analysis?  </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> What is MobSF explain static analysis?  </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> Getting started with MobSF? </a></h3>
+<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> How to get started with MobSF? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> Top 10 best practices of MobSF </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> What is the security score in MobSF? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> What is AndroBugs framework?  </a></h3>
