@@ -25,3 +25,16 @@ permalink: /download-and-install-typesense-ubuntu/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
+
+##### Linux Binary
+
+```bash
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-linux-amd64.tar.gz
+```
+
+##### DEB package on Ubuntu/Debian
+
+```bash
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-amd64.deb
+sudo apt install ./typesense-server-0.22.1-amd64.deb
+```

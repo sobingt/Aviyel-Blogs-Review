@@ -25,3 +25,16 @@ permalink: /download-and-install-typesense-centos/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
+
+##### Linux Binary
+
+```bash
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-linux-amd64.tar.gz
+```
+
+##### RPM package on CentOS/RHEL
+
+```bash
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-1.x86_64.rpm
+sudo yum install ./typesense-server-0.22.1.x86_64.rpm
+```

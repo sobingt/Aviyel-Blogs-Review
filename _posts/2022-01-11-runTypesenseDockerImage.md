@@ -25,3 +25,9 @@ permalink: /how-to-run-typesense-docker-image/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
+
+##### Docker Image
+
+```bash
+docker pull typesense/typesense:0.22.1
+```

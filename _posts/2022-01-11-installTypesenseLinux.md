@@ -25,3 +25,9 @@ permalink: /download-and-install-typesense-linux/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
+
+##### Linux Binary
+
+```bash
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-linux-amd64.tar.gz
+```

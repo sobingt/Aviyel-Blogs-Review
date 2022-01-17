@@ -25,3 +25,9 @@ permalink: /download-and-install-typesense-Mac/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
+
+### Mac Binary
+
+```bash
+curl -O https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-darwin-amd64.tar.gz
+```
