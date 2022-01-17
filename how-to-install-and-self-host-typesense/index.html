@@ -123,11 +123,19 @@ window.onload = wrap_img;
 
 <h2 id="how-to-install-typesense">How to install Typesense?</h2>
 
-<h2 id="tips-and-reminders-for-term-optional">Tips and Reminders for [Term] (Optional)</h2>
+<h2 id="inspecting-server-healt-status-and-some-configuration-tips">Inspecting server healt status and some configuration tips</h2>
+
+<p>Once you’ve completed the installation, you can check the health of your server by calling the /health API end-point to see if it’s ready to accept requests.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl http://localhost:8108/health
+<span class="o">{</span><span class="s2">"ok"</span>:true<span class="o">}</span>
+</code></pre></div></div>
+
+<p>Using command line arguments, you can also entirely customize various Typesense Server settings. More information on <a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/">How To Configure Typesense Server</a>) can be found in this reference <a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/">article</a>.</p>
 
 <h2 id="closing">Closing</h2>
 
-<p>This article may have been entertaining as well as instructive in terms of how to install typesense from the ground up on a variety of platforms. Join Aviyel’s community to learn more about the open source project, get tips on how to contribute, and join active dev groups.</p>
+<p>Typesense was built with several distinctive features primarily aimed at making the developer’s job easier while also giving customer as well as user the ability to provide a better search experience as possible.This article may have been entertaining as well as instructive in terms of how to install typesense from the ground up on a variety of platforms. Join Aviyel’s community to learn more about the open source project, get tips on how to contribute, and join active dev groups.</p>
 
 <h2 id="call-to-action">Call-to-Action</h2>
 
