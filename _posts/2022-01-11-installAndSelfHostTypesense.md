@@ -82,7 +82,7 @@ wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-1.x86_64.r
 sudo yum install ./typesense-server-0.22.1.x86_64.rpm
 ```
 
-## Inspecting server healt status and some configuration tips
+## Inspecting server health status and some configuration tips
 
 Once you've completed the installation, you can check the health of your server by calling the /health API end-point to see if it's ready to accept requests.
 
