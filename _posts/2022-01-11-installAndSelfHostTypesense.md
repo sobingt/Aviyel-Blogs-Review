@@ -28,7 +28,7 @@ permalink: /how-to-install-and-self-host-typesense/
 
 ## Introduction
 
-Typesense is a simple, lightweight, and powerful search engine, as we all know. Get through their official [downloads](https://typesense.org/downloads/) page to get official DEB, RPM, and pre-built binaries for Linux (X86 64) and macOS which are freely available to download. This article will cover a variety of typesense installation guides for various platforms. Typesense's official Docker images are also available on [Docker Hub](https://hub.docker.com/r/typesense/typesense). We'll go over the typesense installation guide step by step and try to cover everything.This article will cover a variety of installation guides for typesense on various different platforms.The official Docker images for Typesense are also available on .We will go over and try to cover the installation guide for typesense from absolute scratch.
+Typesense is a simple, lightweight, and powerful search engine, as we all know. Get through their official [downloads](https://typesense.org/downloads/) page to get official DEB, RPM, and pre-built binaries for Linux (X86 64) and macOS which are freely available to download. This article covers getting Typesense up and running, ingesting a variety of data sources into multiple collections, and getting a feel for the Typesense search interfaces locally. Typesense's official Docker images are also available on [Docker Hub](https://hub.docker.com/r/typesense/typesense). We'll go over the typesense installation guide step by step and try to cover everything.This article will cover a variety of installation guides for typesense on various different platforms.The official Docker images for Typesense are also available on .We will go over and try to cover the installation guide for typesense from absolute scratch.
 
 ## Getting started
 
@@ -40,9 +40,13 @@ Typesense installation is simple, quick, and straightforward. So, for example, i
 
 ##### Windows (WSL)(opens new window)
 
+Typesense can be installed on Windows using the [windows WSL](https://docs.microsoft.com/en-us/windows/wsl/install) which lets developers run a GNU/Linux environment including most command-line tools, utilities, and applications directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup. This can install Typesense directly on the windows platform itself. Simply click the link below to learn more about how to install Typesense inside Windows.
+
 - [How to download and install Typesense on Windows?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-windows/)
 
 ##### Mac Binary
+
+Typesense can be installed directly on Mac using the help of simple [cURL](https://curl.se/) command which is a command-line tool for getting or sending data including files using URL syntax.This can install Typesense directly on the Mac platform itself. Simply click the link below to learn more about how to install Typesense inside Mac.
 
 - [How to download and install Typesense on Mac?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-Mac)
 
