@@ -40,6 +40,16 @@ Installing typesense is simple and straightforward; everything is well documente
 
 Typesense installation is simple, quick, and straightforward. So, for example, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply use or copy paste the following command into your platform's command line, and you're ready to launch your very own search engine.
 
+##### Windows (WSL)(opens new window)
+
+```bash
+wsl
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-amd64.deb
+sudo apt install ./typesense-server-0.22.1-amd64.deb
+```
+
+Keep in mind that after installing the typesense-server package, the "installed typesense-server package post-installation script subprocess returned error exit status 1" message will appear. Ignore this message; <mark>apt list --installed | grep typesense</mark> will show that the installation was successful.
+
 ##### Mac Binary
 
 ```bash
@@ -52,7 +62,7 @@ curl -O https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-darwin-
 wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-linux-amd64.tar.gz
 ```
 
-##### Docker
+##### Docker Image
 
 ```bash
 docker pull typesense/typesense:0.22.1
@@ -70,14 +80,6 @@ sudo apt install ./typesense-server-0.22.1-amd64.deb
 ```bash
 wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-1.x86_64.rpm
 sudo yum install ./typesense-server-0.22.1.x86_64.rpm
-```
-
-##### Windows (WSL)(opens new window)
-
-```bash
-wsl
-wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-amd64.deb
-sudo apt install ./typesense-server-0.22.1-amd64.deb
 ```
 
 ## Inspecting server healt status and some configuration tips
