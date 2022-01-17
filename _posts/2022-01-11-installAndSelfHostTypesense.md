@@ -28,9 +28,7 @@ permalink: /how-to-install-and-self-host-typesense/
 
 ## Introduction
 
-Typesense is a simple, lightweight, and powerful search engine, as we all know. Get through their official [downloads](https://typesense.org/downloads/) page to get official DEB, RPM, and pre-built binaries for Linux (X86 64) and macOS which are freely available to download. This article will cover a variety of typesense installation guides for various platforms. Typesense's official Docker images are also available on [Docker Hub](https://hub.docker.com/r/typesense/typesense). We'll go over the typesense installation guide step by step and try to cover everything.
-
-Typesense is a simple, lightweight, and powerful search engine. DEB, RPM, and pre-built binaries for Linux (X86 64) and macOS which are freely available to download on their official page.This article will cover a variety of installation guides for typesense on various different platforms.The official Docker images for Typesense are also available on .We will go over and try to cover the installation guide for typesense from absolute scratch.
+Typesense is a simple, lightweight, and powerful search engine, as we all know. Get through their official [downloads](https://typesense.org/downloads/) page to get official DEB, RPM, and pre-built binaries for Linux (X86 64) and macOS which are freely available to download. This article will cover a variety of typesense installation guides for various platforms. Typesense's official Docker images are also available on [Docker Hub](https://hub.docker.com/r/typesense/typesense). We'll go over the typesense installation guide step by step and try to cover everything.This article will cover a variety of installation guides for typesense on various different platforms.The official Docker images for Typesense are also available on .We will go over and try to cover the installation guide for typesense from absolute scratch.
 
 ## Getting started
 
