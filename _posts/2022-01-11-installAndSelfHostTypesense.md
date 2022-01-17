@@ -38,11 +38,22 @@ Installing typesense is simple and straightforward; everything is well documente
 
 ## How to install Typesense?
 
-## Tips and Reminders for [Term] (Optional)
+
+
+## Inspecting server healt status and some configuration tips
+
+Once you've completed the installation, you can check the health of your server by calling the /health API end-point to see if it's ready to accept requests.
+
+```bash
+curl http://localhost:8108/health
+{"ok":true}
+```
+
+Using command line arguments, you can also entirely customize various Typesense Server settings. More information on [How To Configure Typesense Server](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/)) can be found in this reference [article](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/).
 
 ## Closing
 
-This article may have been entertaining as well as instructive in terms of how to install typesense from the ground up on a variety of platforms. Join Aviyel's community to learn more about the open source project, get tips on how to contribute, and join active dev groups.
+Typesense was built with several distinctive features primarily aimed at making the developer's job easier while also giving customer as well as user the ability to provide a better search experience as possible.This article may have been entertaining as well as instructive in terms of how to install typesense from the ground up on a variety of platforms. Join Aviyel's community to learn more about the open source project, get tips on how to contribute, and join active dev groups.
 
 ## Call-to-Action
 
