@@ -111,6 +111,15 @@ window.onload = wrap_img;
 
 <p><br /></p>
 
+<h5 id="windows-wslopens-new-window">Windows (WSL)(opens new window)</h5>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wsl
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-amd64.deb
+<span class="nb">sudo </span>apt <span class="nb">install</span> ./typesense-server-0.22.1-amd64.deb
+</code></pre></div></div>
+
+<p>Keep in mind that after installing the typesense-server package, the “installed typesense-server package post-installation script subprocess returned error exit status 1” message will appear. Ignore this message; <mark>apt list --installed | grep typesense</mark> will show that the installation was successful.</p>
+
   </div>
 
 </article>
