@@ -34,7 +34,7 @@ Typesense is a simple, lightweight, and powerful search engine. DEB, RPM, and pr
 
 ## Getting started
 
-Installing typesense is simple and straightforward; everything is well documented on their documentation page, so you can jump right in. Typesense offers a variety of installation options for a variety of platforms, including macOS, Linux, Windows, and Docker, as well as it has number of pre-built binary packages available for download for other platforms as well.
+Installing typesense is simple and straightforward; everything is well documented on their [documentation page](https://typesense.org/docs/guide/install-typesense.html), so you can jump right in. Typesense offers a variety of installation options for a variety of platforms, including macOS, Linux, Windows, and Docker, as well as it has number of pre-built binary packages available for download for other platforms as well.
 
 ## How to install Typesense?
 
