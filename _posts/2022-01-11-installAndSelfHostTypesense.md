@@ -64,6 +64,8 @@ Typesense is also available as Docker images. A list of all published Docker ima
 
 ##### DEB package on Ubuntu/Debian
 
+The Debian package for Typesense can be downloaded from the official Typesense website or from the APT repository of Typesense. It can be used to install Typesense on any Debian-based system such as Debian and Ubuntu.
+
 - [How to download and install Typesense on Ubuntu?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-ubuntu/)
 
 ##### RPM package on CentOS/RHEL
