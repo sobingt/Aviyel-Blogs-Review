@@ -28,7 +28,7 @@ permalink: /how-to-install-and-self-host-typesense/
 
 ## Introduction
 
-Typesense is a C++-based search engine that claims to be very fast, typo-tolerant, configurable, highly available, and very handy and easy to use. The Typesense project provides its own hosting service as a commercial product, but the engine itself is open source and can be installed locally on a variety of platforms such as windows linux and mac. It comes with a GLP 3 license, which is adequate if the server code is not changed.They provide several pre-built artifacts for running Typesense in Production or locally. DEB, RPM, and pre-built binaries for Linux (X86 64) and macOS which are freely available to download on their official [downloads](https://typesense.org/downloads/) page.
+Typesense is a C++-based search engine that claims to be very fast, typo-tolerant, highly configurable, and very handy and easy to use. The Typesense project provides its own hosting service as a commercial product, but the engine itself is open source and can be installed locally on a variety of platforms such as windows linux and mac. It comes with a GLP 3 license, which is adequate if the server code is not changed.They provide several pre-built artifacts for running Typesense in Production or locally. DEB, RPM, and pre-built binaries for Linux (X86 64) and macOS which are freely available to download on their official [downloads](https://typesense.org/downloads/) page.
 
 Typesense is a very popular tech stack tool in the Search as a Service category. It is completely open source, with 8.8K GitHub stars and 235 GitHub forks. It is widely used and widely popular, with [Storipress CMS](https://storipress.com/) and our own [Aviyel](https://aviyel.com/) platform being two of the most prominent users. This article will cover a variety of installation guides for typesense on various different platforms.The official Docker images for Typesense are also available on [Docker Hub](https://hub.docker.com/r/typesense/typesense).We will go over and try to cover the installation guide for typesense from absolute scratch.
 
@@ -38,7 +38,47 @@ Installing typesense is simple and straightforward; everything is well documente
 
 ## How to install Typesense?
 
+Typesense installation is simple, quick, and straightforward. So, for example, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply use or copy paste the following command into your platform's command line, and you're ready to launch your very own search engine.
 
+##### Mac Binary
+
+```bash
+curl -O https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-darwin-amd64.tar.gz
+```
+
+##### Linux Binary
+
+```bash
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-linux-amd64.tar.gz
+```
+
+##### Docker
+
+```bash
+docker pull typesense/typesense:0.22.1
+```
+
+##### DEB package on Ubuntu/Debian
+
+```bash
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-amd64.deb
+sudo apt install ./typesense-server-0.22.1-amd64.deb
+```
+
+##### RPM package on CentOS/RHEL
+
+```bash
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-1.x86_64.rpm
+sudo yum install ./typesense-server-0.22.1.x86_64.rpm
+```
+
+##### Windows (WSL)(opens new window)
+
+```bash
+wsl
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-amd64.deb
+sudo apt install ./typesense-server-0.22.1-amd64.deb
+```
 
 ## Inspecting server healt status and some configuration tips
 
@@ -49,7 +89,7 @@ curl http://localhost:8108/health
 {"ok":true}
 ```
 
-Using command line arguments, you can also entirely customize various Typesense Server settings. More information on [How To Configure Typesense Server](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/)) can be found in this reference [article](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/).
+Using command line arguments, you can also entirely customize various Typesense Server settings. More information on [How To Configure Typesense Server](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/) can be found in this reference [article](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/).
 
 ## Closing
 
@@ -67,4 +107,4 @@ Aviyel is a collaborative platform that assists open source project communities 
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-windows/">How to download and install Typesense on Windows?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-ubuntu/">How to download and install Typesense on Ubuntu?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-centos/">How to download and install Typesense on CentOS?</a><p>
-<li><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/">How to run Typesense from the Docker Image?</a></p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/">How to run Typesense from the Docker Image?</a></p>
