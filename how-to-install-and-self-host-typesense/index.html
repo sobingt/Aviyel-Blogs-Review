@@ -125,6 +125,15 @@ window.onload = wrap_img;
 
 <p>Typesense installation is simple, quick, and straightforward. So, for example, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply use or copy paste the following command into your platform’s command line, and you’re ready to launch your very own search engine.</p>
 
+<h5 id="windows-wslopens-new-window">Windows (WSL)(opens new window)</h5>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wsl
+wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-amd64.deb
+<span class="nb">sudo </span>apt <span class="nb">install</span> ./typesense-server-0.22.1-amd64.deb
+</code></pre></div></div>
+
+<p>Keep in mind that after installing the typesense-server package, the “installed typesense-server package post-installation script subprocess returned error exit status 1” message will appear. Ignore this message; <mark>apt list --installed | grep typesense</mark> will show that the installation was successful.</p>
+
 <h5 id="mac-binary">Mac Binary</h5>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl <span class="nt">-O</span> https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-darwin-amd64.tar.gz
@@ -135,7 +144,7 @@ window.onload = wrap_img;
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-linux-amd64.tar.gz
 </code></pre></div></div>
 
-<h5 id="docker">Docker</h5>
+<h5 id="docker-image">Docker Image</h5>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker pull typesense/typesense:0.22.1
 </code></pre></div></div>
@@ -150,13 +159,6 @@ window.onload = wrap_img;
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-1.x86_64.rpm
 <span class="nb">sudo </span>yum <span class="nb">install</span> ./typesense-server-0.22.1.x86_64.rpm
-</code></pre></div></div>
-
-<h5 id="windows-wslopens-new-window">Windows (WSL)(opens new window)</h5>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wsl
-wget https://dl.typesense.org/releases/0.22.1/typesense-server-0.22.1-amd64.deb
-<span class="nb">sudo </span>apt <span class="nb">install</span> ./typesense-server-0.22.1-amd64.deb
 </code></pre></div></div>
 
 <h2 id="inspecting-server-healt-status-and-some-configuration-tips">Inspecting server healt status and some configuration tips</h2>
