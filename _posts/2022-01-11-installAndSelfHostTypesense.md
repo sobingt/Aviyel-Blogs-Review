@@ -52,6 +52,8 @@ Typesense can be installed directly on Mac using the help of simple [cURL](https
 
 ##### Linux Binary
 
+Typesense is available to download as a .tar.gz archive for Linux platform.It can be simply installed in linux platform with the help of [wget](https://www.gnu.org/software/wget/) which is a command-line utility for downloading files from the web.This can install Typesense directly on the Linux platform itself. Simply click the link below to learn more about how to install Typesense inside Linux.
+
 - [How to download and install Typesense on Linux?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-linux/)
 
 ##### Docker Image
