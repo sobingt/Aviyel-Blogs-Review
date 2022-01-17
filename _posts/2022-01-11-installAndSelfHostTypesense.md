@@ -58,6 +58,8 @@ Typesense is available to download as a .tar.gz archive for Linux platform.It ca
 
 ##### Docker Image
 
+Typesense is also available as Docker images. A list of all published Docker images and tags is available at [https://hub.docker.com/r/typesense/typesense/](https://hub.docker.com/r/typesense/typesense/). The source files are in [Github](https://github.com/typesense/typesense).
+
 - [How to run Typesense from the Docker Image?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/)
 
 ##### DEB package on Ubuntu/Debian
