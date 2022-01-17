@@ -58,17 +58,19 @@ Typesense is available to download as a .tar.gz archive for Linux platform.It ca
 
 ##### Docker Image
 
-Typesense is also available as Docker images. A list of all published Docker images and tags is available at [https://hub.docker.com/r/typesense/typesense/](https://hub.docker.com/r/typesense/typesense/). The source files are in [Github](https://github.com/typesense/typesense).
+Typesense is also available as Docker images. A list of all published Docker images and tags is available at [https://hub.docker.com/r/typesense/typesense/](https://hub.docker.com/r/typesense/typesense/). The source files are in [Github](https://github.com/typesense/typesense).Simply click the link below to learn more about how to install Typesense using Docker.
 
 - [How to run Typesense from the Docker Image?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/)
 
 ##### DEB package on Ubuntu/Debian
 
-The Debian package for Typesense can be downloaded from the official Typesense website or from the APT repository of Typesense. It can be used to install Typesense on any Debian-based system such as Debian and Ubuntu.
+The Debian package for Typesense can be downloaded from the official Typesense website or from the APT repository of Typesense. It can be used to install Typesense on any Debian-based system such as Debian and Ubuntu.Simply click the link below to learn more about how to install Typesense inside Ubuntu/Debian.
 
 - [How to download and install Typesense on Ubuntu?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-ubuntu/)
 
 ##### RPM package on CentOS/RHEL
+
+The RPM for Typesense can be downloaded from the official website / documentation page or from the RPM repository of Typesense. It can be used to install Typesense on any RPM-based system such as OpenSuSE, SLES, Centos, Red Hat,CentOS/RHEL and Oracle Enterprise.Simply click the link below to learn more about how to install Typesense inside CentOS/RHEL using RPM package.
 
 - [How to download and install Typesense on CentOS?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-centos/)
 
