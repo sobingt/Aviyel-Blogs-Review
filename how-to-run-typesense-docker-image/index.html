@@ -162,6 +162,76 @@ window.onload = wrap_img;
 
 <p>Bravo, your Docker installation on Windows is complete, and you are now ready to create and run Docker images and containers within the Docker inside the windows platform.</p>
 
+<h4 id="docker-installation-on-linuxubuntu">Docker Installation on Linux/Ubuntu</h4>
+
+<p>The following are the steps to install Docker:</p>
+
+<ul>
+  <li>On Ubuntu, open the terminal.</li>
+  <li>Use the following command to remove any Docker files that are currently running in the system:After you’ve entered the command stated below, you’ll need to enter the root password and hit enter.</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>apt-get remove docker docker-engine docker.io
+</code></pre></div></div>
+
+<ul>
+  <li>Use the following command to see if the system is fully up to date:</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>apt-get update
+</code></pre></div></div>
+
+<ul>
+  <li>Use the following command inside the terminal to install Docker. You’ll then be given the option of choosing between yes/no; select yes.</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>apt <span class="nb">install </span>docker.io
+</code></pre></div></div>
+
+<ul>
+  <li>Use the following command to install all of the dependency packages:</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>snap <span class="nb">install </span>docker
+</code></pre></div></div>
+
+<ul>
+  <li>Once you start testing Docker, run the following command to see what version you have installed:</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>docker <span class="nt">--version</span>
+</code></pre></div></div>
+
+<ul>
+  <li>Using the following command to pull an docker image from the Docker hub.:</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>docker run hello-world
+</code></pre></div></div>
+
+<ul>
+  <li>Use the following command to see if the docker image has been pulled and is present in your linux/ubuntu:</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>docker images
+</code></pre></div></div>
+
+<ul>
+  <li>Use the following command to see all the containers that have been pulled:</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>docker ps <span class="nt">-a</span>
+</code></pre></div></div>
+
+<ul>
+  <li>Use the following command to see if any containers are running:</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>docker ps
+</code></pre></div></div>
+
+<p>Bravo, your Docker installation on Linux/Ubuntu is complete, and you are now ready to create and run Docker images and containers within the Docker inside the Linux platform.</p>
+
 <h4 id="getting-started-with-typesense-docker-installation-documentation">Getting started with Typesense docker installation documentation</h4>
 
 <p>The main goal of this tutorial is to show you how to use docker to install typesense on your personal computer.</p>
