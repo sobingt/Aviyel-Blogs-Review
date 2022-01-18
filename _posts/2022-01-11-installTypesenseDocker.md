@@ -128,6 +128,25 @@ $ sudo docker ps
 
 Bravo, your Docker installation on Linux/Ubuntu is complete, and you are now ready to create and run Docker images and containers within the Docker inside the Linux platform.
 
+#### Docker Installation on Mac
+
+Docker Desktop for Mac is now generally available. This allows for the development of applications in a variety of local development environments, as well as the extension of development pipelines for ARM-based applications.Docker Desktop also supports multi-platform images, allowing developers to create and run images for both x86 and ARM architectures without the need to set up a complicated cross-compilation environment. In addition, docker buildx can be used to seamlessly integrate multi-platform builds into the build pipeline, and Docker Hub can be used to find and share multi-platform image repositories.
+
+Docker developers have removed the hard requirement to install Rosetta 2 starting with Docker Desktop 4.3.0. When using Darwin/AMD64, a few optional command line tools still require Rosetta 2. However, installing Rosetta 2 is recommended for the best experience. Run the following command to manually install Rosetta 2 directly from the command line:
+
+```bash
+ softwareupdate --install-rosetta
+```
+
+- First step [click here](https://desktop.docker.com/mac/main/arm64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-arm64) to download the docker desktop binary file.
+- To open the installer, open Docker.dmg, then drag the Docker icon to the Applications folder.
+- To start Docker, open Docker.app in the Applications folder.
+- The Docker Subscription Service Agreement window can be found in the Docker menu (whale like menu). It includes a modification to Docker Desktop's terms of service. Docker Desktop opens the Quick Start Guide if you've only recently installed the app.
+
+Bravo, your Docker installation on Linux/Ubuntu is complete, and you are now ready to create and run Docker images and containers within the Docker inside the Linux platform.
+
+Now that you've successfully installed Docker on your computer, let's begin pulling the typesense image and building our own search engine with it.
+
 #### Getting started with Typesense docker installation documentation
 
 The main goal of this tutorial is to show you how to use docker to install typesense on your personal computer.
@@ -135,3 +154,11 @@ The main goal of this tutorial is to show you how to use docker to install types
 ```bash
 docker pull typesense/typesense:0.22.1
 ```
+
+## Closing
+
+Typesense was built with several distinctive features primarily aimed at making the developer's job easier while also giving customer as well as user the ability to provide a better search experience as possible.This article may have been entertaining as well as instructive in terms of how to install typesense from the ground up on a variety of platforms. Join Aviyel's community to learn more about the open source project, get tips on how to contribute, and join active dev groups.
+
+## Call-to-Action
+
+Aviyel is a collaborative platform that assists open source project communities in monetizing and long-term sustainability. To know more visit Aviyel.com and find great blogs and events, just like this one! Sign up now for early access, and don't forget to follow us on our socials!
