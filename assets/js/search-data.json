@@ -244,7 +244,7 @@
   
     
         ,"post22": {
-            "title": "CI/CD pipeline integration in MobSF",
+            "title": "CI/CD pipeline integration in MobSF / DevSecOps",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . MobSF CI/CD integration using Bitrise . MobSF CI/CD integration using OWASP Glue . MobSF CI/CD integration using Circle CI, OWASP Glue  . MobSF CI/CD integration using Jenkins  . MobSF CI/CD integration using Github Actions . | | | | | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/cicd-pipeline-integration-mobsf/",
             "relUrl": "/cicd-pipeline-integration-mobsf/",
@@ -1664,7 +1664,7 @@
     
         ,"post151": {
             "title": "MobSF",
-            "content": "« Back . U ltimate Guide to MobSF. . C I/CD pipeline integration in MobSF . C ase Study of MobSF .",
+            "content": "« Back . U ltimate Guide to MobSF. . C I/CD pipeline integration in MobSF / DecSecOps . C ase Study of MobSF .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/mobsf/2022/01/11/Mobsf.html",
             "relUrl": "/mobsf/2022/01/11/Mobsf.html",
             "date": " • Jan 11, 2022"
