@@ -36,7 +36,7 @@ Installing typesense is simple and straightforward; everything is well documente
 
 ## How to install Typesense?
 
-Typesense installation is simple, quick, and straightforward. So, for example, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply use or copy paste the following command into your platform's command line, and you're ready to launch your very own search engine.
+The installation of Typesense is simple, quick, and painless. So, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply follow the instructions below and integrate it into your own platform, and you're ready to launch your very own search engine.
 
 ##### Windows (WSL)(opens new window)
 
