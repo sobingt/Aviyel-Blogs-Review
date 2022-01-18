@@ -25,3 +25,7 @@ permalink: /what-is-mobsf/
 **Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
 
 <br>
+
+<ul>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobsf-dynamic-analysis/"> What is dynamic analysis?  </a></p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/hat-is-mobsf-static-analysis/"> What is static analysis?  </a></p>

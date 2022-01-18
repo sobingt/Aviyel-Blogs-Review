@@ -2,7 +2,7 @@
 toc: true
 layout: page
 categories: [MobSF]
-title: "What is MobSF explain dynamic analysis? "
+title: "What is dynamic analysis?"
 comments: true
 hidden: true
 permalink: /what-is-mobsf-dynamic-analysis/

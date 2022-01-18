@@ -2,7 +2,7 @@
 toc: true
 layout: page
 categories: [MobSF]
-title: "What is MobSF explain static analysis? "
+title: "What is static analysis? "
 comments: true
 hidden: true
 permalink: /what-is-mobsf-static-analysis/
