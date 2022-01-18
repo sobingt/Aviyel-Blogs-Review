@@ -33,6 +33,5 @@ permalink: /ultimate-guide-mobsf/
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-mobsf/"> How to get started with MobSF? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/Top-10-best-practices-of-MobSF/"> Best Practices for Mobile Security? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/What-is-the-security-score-in-MobSF/"> What is the security score in MobSF? </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-AndroBugs-framework/"> What is AndroBugs framework?  </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/use-case-mobsf/"> What is the use case of MobSF? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-contribute-mobsf/"> How to contribute to MobSF? </a></h3>

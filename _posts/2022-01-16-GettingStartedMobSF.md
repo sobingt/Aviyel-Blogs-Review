@@ -27,10 +27,7 @@ permalink: /how-to-get-started-with-mobsf/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> How do I prepare environment to run MobSF?</a></p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/"> How to setup MobSF step by step?</a></p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">What is MobSF tool?</a></p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">What is static analysis in MobSF?</a></p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">What is dynamic analysis in MobSF?</a></p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to perform static analysis using MobSF?</a></p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to perform dynamic analysis using MobSF??</a></p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-mobsf-android/">How to get started with MobSF for Android Developer?</a></p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-mobsf-ios/">How to get started with MobSF for iOS Developer?</a></p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-mobsf-react-native/">How to get started with MobSF for React Native Developer?</a></p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-mobsf-flutter/">How to get started with MobSF for Flutter Developer?</a></p>
