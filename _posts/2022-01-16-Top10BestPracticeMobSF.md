@@ -2,7 +2,7 @@
 toc: true
 layout: page
 categories: [MobSF]
-title: "Top 10 best practices of MobSF"
+title: "Best Practices for Mobile Security?"
 comments: true
 hidden: true
 permalink: /Top-10-best-practices-of-MobSF/

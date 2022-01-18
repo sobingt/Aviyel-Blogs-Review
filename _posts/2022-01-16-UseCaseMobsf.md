@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [MobSF]
-title: "What is the use case of MobSF?"
+title: "How to create reports in MobSF?"
 comments: true
 hidden: true
-permalink: /use-case-mobsf/
+permalink: /how-to-create-reports-mobsf/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>

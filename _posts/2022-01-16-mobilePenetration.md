@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [MobSF]
-title: "Is MobSF safe?"
+title: "What is Mobile Penetration Test?"
 comments: true
 hidden: true
-permalink: /is-mobsf-safe/
+permalink: /what-is-mobile-penetration/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>

@@ -27,13 +27,13 @@ permalink: /ultimate-guide-mobsf/
 <br>
 
 <ul>
+<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobile-penetration/">What is Mobile Penetration Test? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobsf/"> What is MobSF?</a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/is-mobsf-safe/">Is MobSF safe? </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-mobsf/"> How do I install MobSF? </a></h3>
+<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-mobsf/"> How to install MobSF? </a></h3>
+<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-mobsf/"> How to get started with MobSF? </a></h3>
+<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/Top-10-best-practices-of-MobSF/"> Best Practices for Mobile Security? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobsf-dynamic-analysis/"> What is MobSF explain dynamic analysis?  </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/hat-is-mobsf-static-analysis/"> What is MobSF explain static analysis?  </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-mobsf/"> How to get started with MobSF? </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/Top-10-best-practices-of-MobSF/"> Top 10 best practices of MobSF </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/What-is-the-security-score-in-MobSF/"> What is the security score in MobSF? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-AndroBugs-framework/"> What is AndroBugs framework?  </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/use-case-mobsf/"> What is the use case of MobSF? </a></h3>
