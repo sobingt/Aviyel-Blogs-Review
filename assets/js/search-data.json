@@ -2,8 +2,19 @@
   
     
         "post0": {
-            "title": "What is MobSF?",
+            "title": "How to create reports in MobSF?",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
+            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-reports-mobsf/",
+            "relUrl": "/how-to-create-reports-mobsf/",
+            "date": " • Jan 18, 2022"
+        }
+        
+    
+  
+    
+        ,"post1": {
+            "title": "What is MobSF?",
+            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . What is dynamic analysis? . What is static analysis? . | | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobsf/",
             "relUrl": "/what-is-mobsf/",
             "date": " • Jan 16, 2022"
@@ -12,9 +23,9 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Ultimate Guide to MobSF",
-            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . What is Mobile Penetration Test? . What is MobSF? . How to install MobSF? . How to get started with MobSF? . Best Practices for Mobile Security? . What is MobSF explain dynamic analysis? . What is MobSF explain static analysis? . What is the security score in MobSF? . What is AndroBugs framework? . What is the use case of MobSF? . How to contribute to MobSF? . | | | | | | | | | | | .",
+            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . What is Mobile Penetration Test? . What is MobSF? . How to install MobSF? . How to get started with MobSF? . Best Practices for Mobile Security? . What is the security score in MobSF? . What is AndroBugs framework? . What is the use case of MobSF? . How to contribute to MobSF? . | | | | | | | | | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/ultimate-guide-mobsf/",
             "relUrl": "/ultimate-guide-mobsf/",
             "date": " • Jan 16, 2022"
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "What is Mobile Penetration Test?",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobile-penetration/",
@@ -34,22 +45,11 @@
     
   
     
-        ,"post3": {
+        ,"post4": {
             "title": "Configuring different database backend in MobSF",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . . what is psycopg2 library? . How to modify the database configuration in MobSF? . | | .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/config-different-database-mobsf/",
             "relUrl": "/config-different-database-mobsf/",
-            "date": " • Jan 16, 2022"
-        }
-        
-    
-  
-    
-        ,"post4": {
-            "title": "How to create reports in MobSF?",
-            "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
-            "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-reports-mobsf/",
-            "relUrl": "/how-to-create-reports-mobsf/",
             "date": " • Jan 16, 2022"
         }
         
@@ -79,7 +79,7 @@
   
     
         ,"post7": {
-            "title": "What is MobSF explain static analysis? ",
+            "title": "What is static analysis? ",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobsf-static-analysis/",
             "relUrl": "/what-is-mobsf-static-analysis/",
@@ -90,7 +90,7 @@
   
     
         ,"post8": {
-            "title": "What is MobSF explain dynamic analysis? ",
+            "title": "What is dynamic analysis?",
             "content": "« Back . Outline: [Article Title] . Keyword: [Enter Targeted Keyword] . Keyword MSV: [Enter Targeted Keyword’s Monthly Search Volume] . Author: [Enter Author Name] . Due Date: [Enter Due Date] . Publish Date: [Enter Desired Publish Date] . Buyer Persona: [Enter Targeted Reader and/or Buyer Persona] . .",
             "url": "https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobsf-dynamic-analysis/",
             "relUrl": "/what-is-mobsf-dynamic-analysis/",
