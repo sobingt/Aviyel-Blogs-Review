@@ -38,6 +38,12 @@ Installing typesense is simple and straightforward; everything is well documente
 
 The installation of Typesense is simple, quick, and painless. So, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply follow the instructions below and integrate it into your own platform, and you're ready to launch your very own search engine.
 
+##### Docker Image
+
+Typesense is also available as Docker images. A list of all published Docker images and tags is available at [https://hub.docker.com/r/typesense/typesense/](https://hub.docker.com/r/typesense/typesense/). The source files are in [Github](https://github.com/typesense/typesense).Simply click the link below to learn more about how to install Typesense using Docker.
+
+- [How to run Typesense from the Docker Image?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/)
+
 ##### Windows (WSL)(opens new window)
 
 Typesense can be installed on Windows using the [windows WSL](https://docs.microsoft.com/en-us/windows/wsl/install) which lets developers run a GNU/Linux environment including most command-line tools, utilities, and applications directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup. This can install Typesense directly on the windows platform itself. Simply click the link below to learn more about how to install Typesense inside Windows.
@@ -67,12 +73,6 @@ The Debian package for Typesense can be downloaded from the official Typesense w
 The RPM for Typesense can be downloaded from the official website / documentation page or from the RPM repository of Typesense. It can be used to install Typesense on any RPM-based system such as OpenSuSE, SLES, Centos, Red Hat,CentOS/RHEL and Oracle Enterprise.Simply click the link below to learn more about how to install Typesense inside CentOS/RHEL using RPM package.
 
 - [How to download and install Typesense on CentOS?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-centos/)
-
-##### Docker Image
-
-Typesense is also available as Docker images. A list of all published Docker images and tags is available at [https://hub.docker.com/r/typesense/typesense/](https://hub.docker.com/r/typesense/typesense/). The source files are in [Github](https://github.com/typesense/typesense).Simply click the link below to learn more about how to install Typesense using Docker.
-
-- [How to run Typesense from the Docker Image?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/)
 
 ## Inspecting server health status and some configuration tips
 
