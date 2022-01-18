@@ -28,6 +28,11 @@ permalink: /how-to-run-typesense-docker-image/
 
 ##### Docker Image
 
+Let's start with a basic understanding of containers before moving on to the utility of Docker.
+
+A container is a standard software unit that packages code and all of its dependencies so that an application can run quickly and reliably in different computing environments.During the development phase, this tool is extremely useful. Because there are so many developers involved in the process, setting up the environment to run the project can be a daunting task, especially since each project has its own set of dependencies and versions.
+A Docker container image is a small, standalone software package that contains everything needed to run an application, including code, runtime, system tools, system libraries, and settings. At runtime, container images become containers, and when Docker containers run on Docker Engine, images become containers.
+
 ```bash
 docker pull typesense/typesense:0.22.1
 ```
