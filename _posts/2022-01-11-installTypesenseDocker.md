@@ -67,6 +67,67 @@ The tool does not start automatically after the installation process is complete
 
 Bravo, your Docker installation on Windows is complete, and you are now ready to create and run Docker images and containers within the Docker inside the windows platform.
 
+#### Docker Installation on Linux/Ubuntu
+
+The following are the steps to install Docker:
+
+- On Ubuntu, open the terminal.
+- Use the following command to remove any Docker files that are currently running in the system:After you've entered the command stated below, you'll need to enter the root password and hit enter.
+
+```bash
+$ sudo apt-get remove docker docker-engine docker.io
+```
+
+- Use the following command to see if the system is fully up to date:
+
+```bash
+$ sudo apt-get update
+```
+
+- Use the following command inside the terminal to install Docker. You'll then be given the option of choosing between yes/no; select yes.
+
+```bash
+$ sudo apt install docker.io
+```
+
+- Use the following command to install all of the dependency packages:
+
+```bash
+$ sudo snap install docker
+```
+
+- Once you start testing Docker, run the following command to see what version you have installed:
+
+```bash
+$ docker --version
+```
+
+- Using the following command to pull an docker image from the Docker hub.:
+
+```bash
+$ sudo docker run hello-world
+```
+
+- Use the following command to see if the docker image has been pulled and is present in your linux/ubuntu:
+
+```bash
+$ sudo docker images
+```
+
+- Use the following command to see all the containers that have been pulled:
+
+```bash
+$ sudo docker ps -a
+```
+
+- Use the following command to see if any containers are running:
+
+```bash
+$ sudo docker ps
+```
+
+Bravo, your Docker installation on Linux/Ubuntu is complete, and you are now ready to create and run Docker images and containers within the Docker inside the Linux platform.
+
 #### Getting started with Typesense docker installation documentation
 
 The main goal of this tutorial is to show you how to use docker to install typesense on your personal computer.
