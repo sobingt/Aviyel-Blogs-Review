@@ -2,7 +2,7 @@
 toc: true
 layout: page
 categories: [MobSF]
-title: "CI/CD pipeline integration in MobSF"
+title: "CI/CD pipeline integration in MobSF / DevSecOps"
 comments: true
 hidden: true
 permalink: /cicd-pipeline-integration-mobsf/
