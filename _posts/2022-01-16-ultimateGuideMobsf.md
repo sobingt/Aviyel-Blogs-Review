@@ -33,4 +33,3 @@ permalink: /ultimate-guide-mobsf/
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-mobsf/"> How to get started with MobSF? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/use-case-mobsf/"> How to configure dynamic analysis with MobSF? </a></h3>
 <li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/Top-10-best-practices-of-MobSF/"> Best Practices for Mobile Security? </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/What-is-the-security-score-in-MobSF/">How to create reports in MobSF?</a></h3>
