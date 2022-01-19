@@ -16,7 +16,7 @@ Typesense is a simple, lightweight, and powerful search engine, as we all know. 
 
 ## Getting started
 
-Installing typesense is simple and straightforward; everything is well documented on their [documentation page](https://typesense.org/docs/guide/install-typesense.html), so you can jump right in. Typesense offers a variety of installation options for a variety of platforms, including macOS, Linux, Windows, and Docker, as well as it has number of pre-built binary packages available for download for other platforms as well.
+Getting started with typesense is simple and straightforward; everything is well documented on their [documentation page](https://typesense.org/docs/guide/install-typesense.html), so you can jump right in. Typesense offers a variety of installation options for a variety of platforms, including macOS, Linux, Windows, and Docker, as well as it has number of pre-built binary packages available for download for other platforms as well.
 
 ## How to Get started with Typesense?
 
@@ -25,7 +25,8 @@ The get started with Typesense is really simple, quick, and painless. So, if you
 ## Getting Started with Typesense and Reactjs?
 
 Simply click the link below to learn more about how to get started with Typesense and React js.
-[how to get started with Typesense and React js](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-react/)
+
+- [how to get started with Typesense and React js](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-react/)
 
 ## Getting Started with Typesense and Nodejs?
 
