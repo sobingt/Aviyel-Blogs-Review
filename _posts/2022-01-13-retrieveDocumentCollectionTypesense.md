@@ -22,6 +22,6 @@ permalink: /how-to-retrieve-document-collection-typesense/
 
 **Publish Date:** [Enter Desired Publish Date]
 
-**Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
+**User Persona:** [Enter Targeted Reader and/or User Persona]
 
 <br>

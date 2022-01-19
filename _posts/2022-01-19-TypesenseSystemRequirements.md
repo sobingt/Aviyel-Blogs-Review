@@ -22,7 +22,7 @@ permalink: /what-are-the-system-requirements-in-typesense/
 
 **Publish Date:** [Enter Desired Publish Date]
 
-**Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
+**User Persona:** [Enter Targeted Reader and/or User Persona]
 
 Typesense is an in-memory datastore that focuses on retrieval speed and low latency. To do so, it keeps an in-memory copy of the search index and a disk copy of the raw data. It is critical to choose a good system configuration to get the expected performance characteristics from Typesense.
 

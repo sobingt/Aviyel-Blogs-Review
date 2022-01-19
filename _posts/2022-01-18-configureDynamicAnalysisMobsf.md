@@ -22,7 +22,7 @@ permalink: /how-to-get-started-mobsf-react-native/
 
 **Publish Date:** [Enter Desired Publish Date]
 
-**Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
+**User Persona:** [Enter Targeted Reader and/or User Persona]
 
 <br>
 
