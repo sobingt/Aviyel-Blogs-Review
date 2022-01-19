@@ -23,6 +23,6 @@ permalink: /how-to-get-started-with-typesense-ruby/
 
 **Publish Date:** [Enter Desired Publish Date]
 
-**Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
+**User Persona:** [Enter Targeted Reader and/or User Persona]
 
 <br>

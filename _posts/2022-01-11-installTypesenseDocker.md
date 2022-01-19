@@ -22,7 +22,7 @@ permalink: /how-to-run-typesense-docker-image/
 
 **Publish Date:** [Enter Desired Publish Date]
 
-**Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
+**User Persona:** [Enter Targeted Reader and/or User Persona]
 
 <br>
 

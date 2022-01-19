@@ -14,7 +14,7 @@ permalink: /what-is-typesense-collection/
 
 **Keyword:** [Enter Targeted Keyword]
 
-**Keyword MSV:** [Enter Targeted Keyword’s Monthly Search Volume]
+**Keyword MSV:** [Enter Targeted Keywords Monthly Search Volume]
 
 **Author:** [Enter Author Name]
 
@@ -22,7 +22,7 @@ permalink: /what-is-typesense-collection/
 
 **Publish Date:** [Enter Desired Publish Date]
 
-**Buyer Persona:** [Enter Targeted Reader and/or Buyer Persona]
+**User Persona:** [Enter Targeted Reader and/or User Persona]
 
 Collection is simply a group of related documents in Typesense. In a relational database, a collection is roughly equivalent to a table.To create a collection we must first create a Collection, give it a name, and describe the fields that will be indexed from our Documents before we can add them to Typesense. This definition is referred to as the collection's schema, which is simply a fancy way of describing the fields (and their data types) in your documents.
 
