@@ -27,7 +27,6 @@ permalink: /what-is-typesense-collection/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-typesense-collection/">What is Typesense collection?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-typesense-collection/">How to create a collection in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-collection-with-schema-typesense/">How to make a collection with a schema in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-collection-with-predefined-schema-typesense/">How to create a collection with a pre-defined schema?</a><p>
