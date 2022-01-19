@@ -33,6 +33,13 @@ A schema can be specified in two ways:
 - Typesense can either pre-define all of the fields to be indexed from your documents, or it can detect your fields and data types based on the documents you index.
 - The simplest option is with auto schema detection, which eliminates the need to define an explicit schema. However, if you require more fine-grained control and/or validation, you should use with pre-defined schema detection, or even combine the two.
 
+Creating a collection with a pre-defined schema
+Let's start by making a collection with a pre-defined schema.
+
+This option allows you to fine-tune the data types of your document fields and configures your collection to reject documents that don't match your schema's data types (by default).
+
+Skip to auto-schema detection if you want Typesense to automatically detect your schema for you.
+
 <ul>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-typesense-collection/">How to create a collection in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-collection-with-schema-typesense/">How to make a collection with a schema in Typesense?</a><p>
