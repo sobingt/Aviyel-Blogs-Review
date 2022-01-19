@@ -35,10 +35,15 @@ A schema can be specified in two ways:
 - Typesense can either pre-define all of the fields to be indexed from your documents, or it can detect your fields and data types based on the documents you index.
 - The simplest option is with auto schema detection, which eliminates the need to define an explicit schema. However, if you require more fine-grained control and/or validation, you should use with pre-defined schema detection, or even combine the two.
 
-Creating a collection with a pre-defined schema
+#### Creating a collection with a pre-defined schema
+
 Let's start by making a collection with a pre-defined schema.This option allows you to fine-tune the data types of your document fields and configures your collection to reject documents that don't match your schema's data types (by default).Skip to auto-schema detection if you want Typesense to automatically detect your schema for you.Simply click on the link below to learn more about how to create a collection with a pre-defined schema.
 
 - [How to create a collection with a pre-defined schema?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-collection-with-predefined-schema-typesense/)
+
+#### Creating a collection with auto schema detection
+
+Auto-schema detection should help you if your field names are dynamic and not known ahead of time, or if you just want to keep things simple and index all fields you send in your documents by default. With the name, you can create a wildcard field. When you add documents to the collection, Typesense will automatically detect the type of the fields if you type auto. In fact, any RegEx expression can be used to name a field.Simply refer to the link below to learn more about how to make a collection with auto-schema detection in Typesense.
 
 ## Closing
 
@@ -49,7 +54,7 @@ Typesense was built with several distinctive features primarily aimed at making 
 Aviyel is a collaborative platform that assists open source project communities in monetizing and long-term sustainability. To know more visit Aviyel.com and find great blogs and events, just like this one! Sign up now for early access, and don't forget to follow us on our socials!
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-collection-with-schema-typesense/">How to make a collection with a schema in Typesense?</a><p>
+<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-collection-with-auto-schema-typesense/">How to make a collection with auto-schema detection in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-retrieve-collection-details-typesense/">How to retrieve collection details in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-list-all-collection-details-typesense/"> How to list all the collections in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-drop-collection-typesense/">How to drop a collection in Typesense?</a><p>

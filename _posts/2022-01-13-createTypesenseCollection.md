@@ -2,10 +2,10 @@
 toc: true
 layout: page
 categories: [Typesense]
-title: "How to create a collection in Typesense?"
+title: "How to make a collection with auto-schema detection in Typesense?"
 comments: true
 hidden: true
-permalink: /how-to-create-typesense-collection/
+permalink: /how-to-make-collection-with-auto-schema-typesense/
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
