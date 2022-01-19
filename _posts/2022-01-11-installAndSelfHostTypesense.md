@@ -38,6 +38,12 @@ Installing typesense is simple and straightforward; everything is well documente
 
 The installation of Typesense is simple, quick, and painless. So, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply follow the instructions below and integrate it into your own platform, and you're ready to launch your very own search engine.
 
+##### What are the system requirements in Typesense?
+
+Typesense is an in-memory datastore that focuses on retrieval speed and low latency. To do so, it keeps an in-memory copy of the search index and a disk copy of the raw data. It is critical to choose a good system configuration to get the expected performance characteristics from Typesense. Simply click the link below to learn more about what are the Typesense system requirements.
+
+- [What are the system requirements in Typesense?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-are-the-system-requirements-in-typesense/)
+
 ##### Docker Image
 
 Typesense is also available as Docker images. A list of all published Docker images and tags is available at [https://hub.docker.com/r/typesense/typesense/](https://hub.docker.com/r/typesense/typesense/). The source files are in [Github](https://github.com/typesense/typesense).Simply click the link below to learn more about how to install Typesense using Docker.

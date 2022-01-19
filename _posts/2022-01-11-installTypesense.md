@@ -18,6 +18,10 @@ Typesense is a simple, lightweight, and powerful search engine, as we all know. 
 
 Getting started with typesense is simple and straightforward; everything is well documented on their [documentation page](https://typesense.org/docs/guide/install-typesense.html), so you can jump right in. Typesense offers a variety of installation options for a variety of platforms, including macOS, Linux, Windows, and Docker, as well as it has number of pre-built binary packages available for download for other platforms as well.
 
+## How to install Typesense?
+
+The installation of Typesense is simple, quick, and painless. So, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply follow the instructions below and integrate it into your own platform, and you're ready to launch your very own search engine.
+
 ## How to Get started with Typesense?
 
 The get started with Typesense is really simple, quick, and painless. So, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply follow the instructions below and integrate it into your own platform, and you're ready to launch your very own search engine.
