@@ -111,6 +111,30 @@ window.onload = wrap_img;
 
 <p><br /></p>
 
+<p>In Typesense, each record you index is referred to as a Document.</p>
+
+<h4 id="indexing-a-documents-in-typesense">Indexing a documents in Typesense</h4>
+
+<p>A document that is to be indexed in a collection must follow the collection’s schema.If the document contains a string id field, Typesense will use that field as the document’s identifier. Otherwise, Typesense will assign the document an auto-generated identifier.</p>
+
+<h4 id="indexing-a-single-documents-in-typesense">Indexing a single documents in Typesense</h4>
+
+<p>The single document create endpoint can be used to index a document in response to a user action in your application.If you need to index a large number of documents at once, the import documents endpoint, which is optimized for bulk imports, is the way to go. For example, if you have 100 documents, indexing them all at once using the import endpoint will be much faster than indexing them one at a time.Simply click the link below to learn more about how to index a document in Typesense.</p>
+
+<ul>
+  <li><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-index-upsert-document-typesense/">How to index and upsert a document in Typesense?</a></li>
+</ul>
+
+<h4 id="upserting-a-document-in-typesense">Upserting a document in Typesense</h4>
+
+<p>If a document with the same id already exists, the endpoint will replace it; if a document with the same id does not exist, the endpoint will create one but if you need to upsert a large number of documents at once, it is recommended to use the import documents endpoint with action=upsert, which is designed for bulk upserts. For example, if you have 100 documents, upserting them all at once using the import endpoint will be much faster than upserting them one at a time.Simply click the link below to learn more about how to upsert a document in Typesense.</p>
+
+<ul>
+  <li><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-index-upsert-document-typesense/">How to index and upsert a document in Typesense?</a></li>
+</ul>
+
+<h4 id="upserting-a-document-in-typesense-1">Upserting a document in Typesense</h4>
+
 <ul>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-index-upsert-document-typesense/">How to index and upsert a document in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-retrieve-document-collection-typesense/">How to retrieve a document collection in Typesense?</a><p>
