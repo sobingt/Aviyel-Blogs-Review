@@ -1,6 +1,5 @@
 [//]: # "This template replaces README.md when someone creates a new repo with the fastpages template."
 
-Test for Review
 
 ![](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/workflows/CI/badge.svg)
 ![](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/workflows/GH-Pages%20Status/badge.svg)
