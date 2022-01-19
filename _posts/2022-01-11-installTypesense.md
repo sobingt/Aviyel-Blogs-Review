@@ -22,27 +22,45 @@ Installing typesense is simple and straightforward; everything is well documente
 
 The get started with Typesense is really simple, quick, and painless. So, if you want to install Typesense on a Mac, Linux, Windows, or any other platform, simply follow the instructions below and integrate it into your own platform, and you're ready to launch your very own search engine.
 
-## How to Get Started with Typesense and Reactjs?
+## Getting Started with Typesense and Reactjs?
 
-## How to Get Started with Typesense and Nodejs?
+Simply click the link below to learn more about how to get started with Typesense and React js.
 
-## How to Get Started with Typesense and PHP?
+## Getting Started with Typesense and Nodejs?
 
-## How to Get Started with Typesense and Python?
+Simply click the link below to learn more about how to get started with Typesense and Nodejs.
 
-## How to Get Started with Typesense and Ruby?
+## Getting Started with Typesense and PHP?
 
-## How to set up the Typesense Go client?
+Simply click the link below to learn more about how to get started with Typesense and PHP.
 
-## How to set up the Typesense Java client?
+## Getting Started with Typesense and Python?
 
-## How to set up the Typesense C# client?
+Simply click the link below to learn more about how to get started with Typesense and Python.
 
-## How to set up the Typesense Rust client?
+## Getting Started with Typesense and Ruby?
 
-## How to set up the Typesense Rust client?
+Simply click the link below to learn more about how to get started Typesense and Ruby.
 
-## How to set up the Typesense Dart client?
+## Setting up the Typesense Go client?
+
+Simply click the link below to learn more about how to set up the Typesense Go client.
+
+## Setting up the Typesense Java client?
+
+Simply click the link below to learn more about how to set up the Typesense Java client.
+
+## Setting up the Typesense C# client?
+
+Simply click the link below to learn more about how to set up the Typesense C# client.
+
+## Setting up the Typesense Rust client?
+
+Simply click the link below to learn more about how to set up the Typesense Rust client.
+
+## Setting up the Typesense Dart client?
+
+Simply click the link below to learn more about how to set up the Typesense Dart client.
 
 ## Closing
 
