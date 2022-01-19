@@ -28,8 +28,6 @@ permalink: /download-and-install-typesense-Mac/
 
 Before we begin using Typesense on mac, let's first learn how to install it. To do so, we'll need curl, so let's start by learning how to use it. Curl, which stands for client URL, is a command line tool that developers use to transfer data to and from a server. At its most basic level, cURL allows you to communicate with a server by specifying the destination (in the form of a URL) and the data you wish to send. cURL runs on almost every platform and supports a variety of protocols, including HTTP and HTTPS.
 
-
-
 ### Mac Binary
 
 ```bash
