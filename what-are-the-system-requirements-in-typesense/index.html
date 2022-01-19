@@ -125,9 +125,15 @@ window.onload = wrap_img;
   <li>With 3 million records, an 8vCPU 3-node Typesense cluster can handle 250 concurrent search queries per second.</li>
 </ul>
 
+<p><mark>Keep in mind that Typesense requires at least two virtual CPUs (vCPUs) to run.</mark></p>
+
+<p>You can use nodes in Typesense Cloud that have “Burst” vCPU capacity. If your traffic is relatively low for the majority of the day, with the occasional moderate spike during indexing, you can save money by using the “Burst” vCPU options which Typesense provides. If you have a high baseline of traffic or a high indexing volume, this option is not a good fit. If you send a large amount of traffic to the nodes in this offering on a regular basis, response times will begin to slow.</p>
+
 <h4 id="disk-selection">Disk Selection</h4>
 
 <p>Typesense saves a copy of the raw data to disk and then uses it to create the in-memory index. Then, at search time, it fetches (only) these documents from disk and includes them in the API response after determining the final set of documents to return.To run Typesense, you’ll need enough disk space, at least the size of your raw dataset. SSDs are much faster than magnetic disks and are therefore recommended.</p>
+
+<p>Typesense manage disk space for you automatically in Typesense Cloud. It uses NVMEe SSD disks that give you the fastest data transfer rates when you enable the “High Performance Disk” option (available only for Highly-Available Non-Burst configurations).</p>
 
 <h4 id="number-of-nodes-selection">Number of Nodes selection</h4>
 
