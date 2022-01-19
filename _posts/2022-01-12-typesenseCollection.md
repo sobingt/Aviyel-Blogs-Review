@@ -45,6 +45,8 @@ Let's start by making a collection with a pre-defined schema.This option allows 
 
 Auto-schema detection should help you if your field names are dynamic and not known ahead of time, or if you just want to keep things simple and index all fields you send in your documents by default. With the name, you can create a wildcard field. When you add documents to the collection, Typesense will automatically detect the type of the fields if you type auto. In fact, any RegEx expression can be used to name a field.Simply refer to the link below to learn more about how to make a collection with auto-schema detection in Typesense.
 
+- [How to make a collection with auto-schema detection in Typesense?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-collection-with-auto-schema-typesense/)
+
 ## Closing
 
 Typesense was built with several distinctive features primarily aimed at making the developer's job easier while also giving customer as well as user the ability to provide a better search experience as possible.This article may have been entertaining as well as instructive in terms of how to install typesense from the ground up on a variety of platforms. Join Aviyel's community to learn more about the open source project, get tips on how to contribute, and join active dev groups.
@@ -54,7 +56,6 @@ Typesense was built with several distinctive features primarily aimed at making 
 Aviyel is a collaborative platform that assists open source project communities in monetizing and long-term sustainability. To know more visit Aviyel.com and find great blogs and events, just like this one! Sign up now for early access, and don't forget to follow us on our socials!
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-make-collection-with-auto-schema-typesense/">How to make a collection with auto-schema detection in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-retrieve-collection-details-typesense/">How to retrieve collection details in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-list-all-collection-details-typesense/"> How to list all the collections in Typesense?</a><p>
 <li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-drop-collection-typesense/">How to drop a collection in Typesense?</a><p>
