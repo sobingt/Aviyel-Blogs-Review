@@ -27,7 +27,7 @@ permalink: /how-to-get-started-mobsf-react-native/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to configure dynamic analysis with MobSF? </a></p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to configure dynamic analysis with MobSF with Genymotion Android? </a></p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to configure dynamic analysis with MobSF with Android Studio Emulator </a></p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to configure dynamic analysis with MobSF with Genymotion Cloud AndroidHow to update MobSF?</a></p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to configure dynamic analysis with MobSF? </a></p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to configure dynamic analysis with MobSF with Genymotion Android? </a></p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to configure dynamic analysis with MobSF with Android Studio Emulator </a></p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to configure dynamic analysis with MobSF with Genymotion Cloud AndroidHow to update MobSF?</a></p>

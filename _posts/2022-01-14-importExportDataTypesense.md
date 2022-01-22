@@ -27,5 +27,5 @@ permalink: /how-to-import-export-data-typesense/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-import-jsonl-typesense/">How to import JSONL files in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-import-csv-file-typesense/">How to import a CSV file in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-import-jsonl-typesense/">How to import JSONL files in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-import-csv-file-typesense/">How to import a CSV file in Typesense?</a><p>

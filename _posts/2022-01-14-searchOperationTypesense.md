@@ -27,7 +27,7 @@ permalink: /search-operations-typesense/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-search-filter-queries-typesense/">How to search and filter queries in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-gather-search-groups-typesense/">How to gather search results in groups in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-federated-multisearch-typesense/">What is Federated and multi-search in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-generate-scope-search-typesense/">How to generate a Scoped search in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-search-filter-queries-typesense/">How to search and filter queries in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-gather-search-groups-typesense/">How to gather search results in groups in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/what-is-federated-multisearch-typesense/">What is Federated and multi-search in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-generate-scope-search-typesense/">How to generate a Scoped search in Typesense?</a><p>

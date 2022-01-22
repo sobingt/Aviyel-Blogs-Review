@@ -27,9 +27,9 @@ permalink: /ultimate-guide-mobsf/
 <br>
 
 <ul>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobile-penetration/">What is Mobile Penetration Test? </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-is-mobsf/"> What is MobSF?</a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-install-mobsf/"> How to install MobSF? </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-mobsf/"> How to get started with MobSF? </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/use-case-mobsf/"> How to configure dynamic analysis with MobSF? </a></h3>
-<li><h3><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/Top-10-best-practices-of-MobSF/"> Best Practices for Mobile Security? </a></h3>
+<li><h3><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/what-is-mobile-penetration/">What is Mobile Penetration Test? </a></h3>
+<li><h3><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/what-is-mobsf/"> What is MobSF?</a></h3>
+<li><h3><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-install-mobsf/"> How to install MobSF? </a></h3>
+<li><h3><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-get-started-with-mobsf/"> How to get started with MobSF? </a></h3>
+<li><h3><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/use-case-mobsf/"> How to configure dynamic analysis with MobSF? </a></h3>
+<li><h3><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/Top-10-best-practices-of-MobSF/"> Best Practices for Mobile Security? </a></h3>
