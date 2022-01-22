@@ -44,7 +44,59 @@ If a document with the same id already exists, the endpoint will replace it; if 
 
 - [How to index and upsert a document in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-index-upsert-document-typesense/)
 
-#### Upserting a document in Typesense
+#### Retrieving a document collection in Typesense
+
+Simply click the link below to learn more about how to retrieve a document collection in Typesense.
+
+- [How to retrieve a document collection in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-retrieve-document-collection-typesense/)
+
+#### Updating a document collection in Typesense
+
+Simply click the link below to learn more about how to update a document collection in Typesense.
+
+- [How to update a document collection in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-update-document-collection-typesense/)
+
+#### Deleteing a document collection in Typesense
+
+Simply click the link below to learn more about how to delete a document collection in Typesense.
+
+- [How to delete a document collection in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-delete-document-collection-typesense/)
+
+#### Deleteing a document collection by a query in Typesense
+
+Simply click the link below to learn more about how to delete a documents collection by a query in Typesense.
+
+- [How to delete a documents collection by a query in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-delete-document-collection-query-typesense/)
+
+#### Importing a documents in Typesense
+
+Simply click the link below to learn more about how to import documents in Typesense.
+
+- [How to import documents in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-import-documents-typesense/)
+
+#### Exporting a documents in Typesense
+
+Simply click the link below to learn more about how to export documents in Typesense.
+
+- [How to export documents in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-export-documents-typesense/)
+
+#### Indexing a documents with Dirty Data in Typesense
+
+When the type of a field being indexed does not match the previously inferred type for that field or the one defined in the collection's schema, the dirty_values parameter determines what Typesense should do.Simply click the link below to learn more about how to index a document with dirty data in Typesense.
+
+- [How to index a document with dirty data in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-index-dirty-data-typesense/)
+
+#### Curating a documents in Typesense
+
+Simply click the link below to learn more about how to curate Documents in Typesense.
+
+- [How to curate Documents in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-curate-document-typesense/)
+
+## Closing
+
+Typesense was built with several distinctive features primarily aimed at making the developer's job easier while also giving customer as well as user the ability to provide a better search experience as possible.This article may have been entertaining as well as instructive in terms of how to install typesense from the ground up on a variety of platforms. Join Aviyel's community to learn more about the open source project, get tips on how to contribute, and join active dev groups.
+
+## Call-to-Action
 
 <ul>
 <li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-index-upsert-document-typesense/">How to index and upsert a document in Typesense?</a><p>
