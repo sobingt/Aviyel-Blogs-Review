@@ -27,8 +27,8 @@ permalink: /how-to-update-typesense-for-new-releases/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-update-typesense-docker/">How to update Typesense in Docker?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-update-typesense-rpm/">How to update Typesense RPM package? </a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-update-typesense-deb/">How to update Typesense DEB package? </a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-update-typesense-linux/">How to update Typesense Linux Binary? </a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-update-typesense-mac/">How to update Typesense MAC Binary? </a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-update-typesense-docker/">How to update Typesense in Docker?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-update-typesense-rpm/">How to update Typesense RPM package? </a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-update-typesense-deb/">How to update Typesense DEB package? </a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-update-typesense-linux/">How to update Typesense Linux Binary? </a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-update-typesense-mac/">How to update Typesense MAC Binary? </a><p>

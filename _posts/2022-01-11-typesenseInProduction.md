@@ -27,4 +27,4 @@ permalink: /how-to-run-typesense-in-production/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/10-production-best-practice">10 Production Best Practices for Typesense</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/10-production-best-practice">10 Production Best Practices for Typesense</a><p>

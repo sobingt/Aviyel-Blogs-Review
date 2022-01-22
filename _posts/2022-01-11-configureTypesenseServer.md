@@ -27,5 +27,5 @@ permalink: /how-to-configure-typesense-server/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/setup-typesense-server-config-file/">How to set up Typesense server through a configuration file? </a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/setup-typesense-server-env-file/">How to set up Typesense server via environment variables?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/setup-typesense-server-config-file/">How to set up Typesense server through a configuration file? </a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/setup-typesense-server-env-file/">How to set up Typesense server via environment variables?</a><p>

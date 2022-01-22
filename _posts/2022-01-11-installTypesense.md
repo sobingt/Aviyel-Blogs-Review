@@ -30,61 +30,61 @@ The get started with Typesense is really simple, quick, and painless. So, if you
 
 Simply click the link below to learn more about how to get started with Typesense and React js.
 
-- [how to get started with Typesense and React js](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-react/)
+- [how to get started with Typesense and React js](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-react/)
 
 ## Getting Started with Typesense and Nodejs?
 
 Simply click the link below to learn more about how to get started with Typesense and Nodejs.
 
-- [how to get started with Typesense and Nodejs](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-node/)
+- [how to get started with Typesense and Nodejs](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-node/)
 
 ## Getting Started with Typesense and PHP?
 
 Simply click the link below to learn more about how to get started with Typesense and PHP.
 
-- [how to get started with Typesense and PHP](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-php/)
+- [how to get started with Typesense and PHP](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-php/)
 
 ## Getting Started with Typesense and Python?
 
 Simply click the link below to learn more about how to get started with Typesense and Python.
 
-- [how to get started with Typesense and Python](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-python/)
+- [how to get started with Typesense and Python](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-python/)
 
 ## Getting Started with Typesense and Ruby?
 
 Simply click the link below to learn more about how to get started Typesense and Ruby.
 
-- [how to get started Typesense and Ruby](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-ruby/)
+- [how to get started Typesense and Ruby](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-get-started-with-typesense-ruby/)
 
 ## Setting up the Typesense Go client?
 
 Simply click the link below to learn more about how to set up the Typesense Go client.
 
-- [how to set up the Typesense Go client](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-go-client/)
+- [how to set up the Typesense Go client](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-go-client/)
 
 ## Setting up the Typesense Java client?
 
 Simply click the link below to learn more about how to set up the Typesense Java client.
 
-- [how to set up the Typesense Java client](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-java-client/)
+- [how to set up the Typesense Java client](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-java-client/)
 
 ## Setting up the Typesense C# client?
 
 Simply click the link below to learn more about how to set up the Typesense C# client.
 
-- [how to set up the Typesense C# client](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-rust-client/)
+- [how to set up the Typesense C# client](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-rust-client/)
 
 ## Setting up the Typesense Rust client?
 
 Simply click the link below to learn more about how to set up the Typesense Rust client.
 
-- [How to set up the Typesense Rust client?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-rust-client/)
+- [How to set up the Typesense Rust client?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-rust-client/)
 
 ## Setting up the Typesense Dart client?
 
 Simply click the link below to learn more about how to set up the Typesense Dart client.
 
-- [How to set up the Typesense Dart client?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-dart-client/)
+- [How to set up the Typesense Dart client?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-set-up-typesense-dart-client/)
 
 ## Closing
 

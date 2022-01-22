@@ -27,5 +27,5 @@ permalink: /how-does-typesense-create-data-backup/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/run-typesense-cluster-node/">How to run a cluster of Typesense nodes for its high availability?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/configure-typesense-cluster/">How to configure a Typesense cluster?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/run-typesense-cluster-node/">How to run a cluster of Typesense nodes for its high availability?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/configure-typesense-cluster/">How to configure a Typesense cluster?</a><p>

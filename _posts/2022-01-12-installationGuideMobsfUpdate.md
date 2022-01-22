@@ -27,11 +27,11 @@ permalink: /mobsf-installation-guide/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to install mobsf on windows?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to install mobsf on windows 10?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to install mobsf on mac?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to install mobsf on linux?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to install mobsf on docker?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to install mobsf on kali linux?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/">How to run MobSF online?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/mobsf-docker-guide/">MobSF docker Guide.</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to install mobsf on windows?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to install mobsf on windows 10?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to install mobsf on mac?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to install mobsf on linux?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to install mobsf on docker?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to install mobsf on kali linux?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/">How to run MobSF online?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/mobsf-docker-guide/">MobSF docker Guide.</a><p>

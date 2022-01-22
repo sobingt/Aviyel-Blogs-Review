@@ -42,43 +42,43 @@ The installation of Typesense is simple, quick, and painless. So, if you want to
 
 Typesense is an in-memory datastore that focuses on retrieval speed and low latency. To do so, it keeps an in-memory copy of the search index and a disk copy of the raw data. It is critical to choose a good system configuration to get the expected performance characteristics from Typesense. Simply click the link below to learn more about what are the Typesense system requirements.
 
-- [What are the system requirements in Typesense?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/what-are-the-system-requirements-in-typesense/)
+- [What are the system requirements in Typesense?](https://aviyelverse.github.io/Aviyel-Blogs-Review/what-are-the-system-requirements-in-typesense/)
 
 ##### Docker Image
 
 Typesense is also available as Docker images. A list of all published Docker images and tags is available at [https://hub.docker.com/r/typesense/typesense/](https://hub.docker.com/r/typesense/typesense/). The source files are in [Github](https://github.com/typesense/typesense).Simply click the link below to learn more about how to install Typesense using Docker.
 
-- [How to run Typesense from the Docker Image?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/)
+- [How to run Typesense from the Docker Image?](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-run-typesense-docker-image/)
 
 ##### Windows (WSL)(opens new window)
 
 Typesense can be installed on Windows using the [windows WSL](https://docs.microsoft.com/en-us/windows/wsl/install) which lets developers run a GNU/Linux environment including most command-line tools, utilities, and applications directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup. This can install Typesense directly on the windows platform itself. Simply click the link below to learn more about how to install Typesense inside Windows.
 
-- [How to download and install Typesense on Windows?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-windows/)
+- [How to download and install Typesense on Windows?](https://aviyelverse.github.io/Aviyel-Blogs-Review/download-and-install-typesense-windows/)
 
 ##### Mac Binary
 
 Typesense can be installed directly on Mac using the help of simple [cURL](https://curl.se/) command which is a command-line tool for getting or sending data including files using URL syntax.This can install Typesense directly on the Mac platform itself. Simply click the link below to learn more about how to install Typesense inside Mac.
 
-- [How to download and install Typesense on Mac?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-Mac)
+- [How to download and install Typesense on Mac?](https://aviyelverse.github.io/Aviyel-Blogs-Review/download-and-install-typesense-Mac)
 
 ##### Linux Binary
 
 Typesense is available to download as a .tar.gz archive for Linux platform.It can be simply installed in linux platform with the help of [wget](https://www.gnu.org/software/wget/) which is a command-line utility for downloading files from the web.This can install Typesense directly on the Linux platform itself. Simply click the link below to learn more about how to install Typesense inside Linux.
 
-- [How to download and install Typesense on Linux?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-linux/)
+- [How to download and install Typesense on Linux?](https://aviyelverse.github.io/Aviyel-Blogs-Review/download-and-install-typesense-linux/)
 
 ##### DEB package on Ubuntu/Debian
 
 The Debian package for Typesense can be downloaded from the official Typesense website or from the APT repository of Typesense. It can be used to install Typesense on any Debian-based system such as Debian and Ubuntu.Simply click the link below to learn more about how to install Typesense inside Ubuntu/Debian.
 
-- [How to download and install Typesense on Ubuntu?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-ubuntu/)
+- [How to download and install Typesense on Ubuntu?](https://aviyelverse.github.io/Aviyel-Blogs-Review/download-and-install-typesense-ubuntu/)
 
 ##### RPM package on CentOS/RHEL
 
 The RPM for Typesense can be downloaded from the official website / documentation page or from the RPM repository of Typesense. It can be used to install Typesense on any RPM-based system such as OpenSuSE, SLES, Centos, Red Hat,CentOS/RHEL and Oracle Enterprise.Simply click the link below to learn more about how to install Typesense inside CentOS/RHEL using RPM package.
 
-- [How to download and install Typesense on CentOS?](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/download-and-install-typesense-centos/)
+- [How to download and install Typesense on CentOS?](https://aviyelverse.github.io/Aviyel-Blogs-Review/download-and-install-typesense-centos/)
 
 ## Inspecting server health status and some configuration tips
 
@@ -89,7 +89,7 @@ curl http://localhost:8108/health
 {"ok":true}
 ```
 
-Using command line arguments, you can also entirely customize various Typesense Server settings. More information on [How To Configure Typesense Server](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/) can be found in this reference [article](https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/).
+Using command line arguments, you can also entirely customize various Typesense Server settings. More information on [How To Configure Typesense Server](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/) can be found in this reference [article](https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-configure-typesense-server/).
 
 ## Closing
 

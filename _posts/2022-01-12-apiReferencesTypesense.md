@@ -27,6 +27,6 @@ permalink: /api-refrence-typesense/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/new-typesense-version/">What is new on Typesense v0.22.1?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/new-typesense-version-features/">What are the new features in the recent version of Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/deprecated-feature-typesense/">What are the deprecated features of Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/new-typesense-version/">What is new on Typesense v0.22.1?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/new-typesense-version-features/">What are the new features in the recent version of Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/deprecated-feature-typesense/">What are the deprecated features of Typesense?</a><p>

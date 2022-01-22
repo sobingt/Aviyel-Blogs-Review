@@ -27,8 +27,8 @@ permalink: /make-use-of-typesense-synonym-feature/
 <br>
 
 <ul>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-update-synonym-typesense/">How to create and update a synonym in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-multiway-synonym-typesense/">How to create Multiway synonyms in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-create-a-one-way-synonym-typesense/">How to create a one-way synonym in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-retrieve-a-single-synonym-typesense/">How to retrieve a single synonym in Typesense?</a><p>
-<li><p><a href="https://aviyeldevrel.github.io/Aviyel-Blogs-Review/how-to-delete-synonym-associated-with-a-collection/">How to delete a synonym associated with a collection?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-create-update-synonym-typesense/">How to create and update a synonym in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-create-multiway-synonym-typesense/">How to create Multiway synonyms in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-create-a-one-way-synonym-typesense/">How to create a one-way synonym in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-retrieve-a-single-synonym-typesense/">How to retrieve a single synonym in Typesense?</a><p>
+<li><p><a href="https://aviyelverse.github.io/Aviyel-Blogs-Review/how-to-delete-synonym-associated-with-a-collection/">How to delete a synonym associated with a collection?</a><p>
